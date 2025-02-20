@@ -1,0 +1,1307 @@
+[20Feb2025 06:47:43.672] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[20Feb2025 06:47:43.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Feb2025 06:47:52.901] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ChillMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[20Feb2025 06:47:55.273] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ChillMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[20Feb2025 06:47:55.288] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ChillMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Feb2025 06:47:55.291] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ChillMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Feb2025 06:47:55.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ChillMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[20Feb2025 06:47:55.958] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20Feb2025 06:47:55.982] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[20Feb2025 06:48:04.889] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Feb2025 06:48:05.884] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Feb2025 06:48:06.213] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:06.258] [main/WARN] [mixin/]: Reference map 'candlelight-forge-refmap.json' for candlelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:06.305] [main/WARN] [mixin/]: Reference map 'Bakery-forge-refmap.json' for bakery.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:06.308] [main/WARN] [mixin/]: Reference map 'vinery-forge-refmap.json' for vinery.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:06.325] [main/WARN] [mixin/]: Reference map 'beachparty-forge-refmap.json' for beachparty.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:06.796] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 06:48:10.964] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/autumnity/common/entity/projectile/ThrownTurkeyEgg (java.lang.ClassNotFoundException: com.teamabnormals.autumnity.common.entity.projectile.ThrownTurkeyEgg)
+[20Feb2025 06:48:10.971] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.autumnity.common.entity.projectile.ThrownTurkeyEgg was not found hauntedharvest.mixins.json:CompatTurkeyEggEntityMixin
+[20Feb2025 06:48:13.811] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[20Feb2025 06:48:15.122] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[20Feb2025 06:48:22.410] [main/WARN] [mixin/]: @Final field f_20945_:Ljava/util/Map; in vinery-common.mixins.json:LivingEntityMixin should be final
+[20Feb2025 06:48:30.724] [main/WARN] [mixin/]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[20Feb2025 06:48:30.724] [main/WARN] [mixin/]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[20Feb2025 06:48:36.047] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[20Feb2025 06:48:38.521] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzl000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20Feb2025 06:48:40.593] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[20Feb2025 06:48:40.649] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easyanvils
+[20Feb2025 06:48:40.773] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[20Feb2025 06:48:40.774] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[20Feb2025 06:48:40.776] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[20Feb2025 06:48:40.792] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[20Feb2025 06:48:40.798] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[20Feb2025 06:48:40.802] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[20Feb2025 06:48:40.810] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[20Feb2025 06:48:40.812] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[20Feb2025 06:48:40.815] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[20Feb2025 06:48:40.820] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biome Modifiers Registered!
+[20Feb2025 06:48:40.829] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[20Feb2025 06:48:41.237] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[20Feb2025 06:48:41.277] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[20Feb2025 06:48:42.267] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:basic_attack
+[20Feb2025 06:48:42.268] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:air_attack
+[20Feb2025 06:48:42.269] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:roll
+[20Feb2025 06:48:42.272] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:step
+[20Feb2025 06:48:42.273] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:knockdown_wakeup
+[20Feb2025 06:48:42.292] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:guard
+[20Feb2025 06:48:42.317] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:parrying
+[20Feb2025 06:48:42.321] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:impact_guard
+[20Feb2025 06:48:42.325] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:berserker
+[20Feb2025 06:48:42.328] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:death_harvest
+[20Feb2025 06:48:42.333] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:emergency_escape
+[20Feb2025 06:48:42.335] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:endurance
+[20Feb2025 06:48:42.338] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:forbidden_strength
+[20Feb2025 06:48:42.344] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:hypervitality
+[20Feb2025 06:48:42.345] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:stamina_pillager
+[20Feb2025 06:48:42.346] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:swordmaster
+[20Feb2025 06:48:42.347] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:technician
+[20Feb2025 06:48:42.351] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sweeping_edge
+[20Feb2025 06:48:42.352] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:dancing_edge
+[20Feb2025 06:48:42.354] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:the_guillotine
+[20Feb2025 06:48:42.359] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:grasping_spire
+[20Feb2025 06:48:42.367] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:heartpiercer
+[20Feb2025 06:48:42.369] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:steel_whirlwind
+[20Feb2025 06:48:42.373] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu
+[20Feb2025 06:48:42.376] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu_passive
+[20Feb2025 06:48:42.379] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:rushing_tempo
+[20Feb2025 06:48:42.380] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:relentless_combo
+[20Feb2025 06:48:42.384] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:liechtenauer
+[20Feb2025 06:48:42.386] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sharp_stab
+[20Feb2025 06:48:42.388] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:eviscerate
+[20Feb2025 06:48:42.453] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:blade_rush
+[20Feb2025 06:48:42.455] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:wrathful_lighting
+[20Feb2025 06:48:42.456] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:tsunami
+[20Feb2025 06:48:42.459] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:everlasting_allegiance
+[20Feb2025 06:48:42.465] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:meteor_slam
+[20Feb2025 06:48:42.468] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:revelation
+[20Feb2025 06:48:42.469] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:demolition_leap
+[20Feb2025 06:48:42.471] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:phantom_ascent
+[20Feb2025 06:48:43.893] [modloading-worker-0/INFO] [com.axperty.storagedelight.StorageDelight/]: Registering creative mode tab for storagedelight
+[20Feb2025 06:48:44.724] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[20Feb2025 06:48:44.725] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[20Feb2025 06:48:45.931] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[20Feb2025 06:48:45.943] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[20Feb2025 06:48:45.955] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[20Feb2025 06:48:45.955] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[20Feb2025 06:48:46.864] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[20Feb2025 06:48:47.318] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VariantSelectorModule
+[20Feb2025 06:48:47.338] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[20Feb2025 06:48:47.344] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.ClimateControlRemoverModule
+[20Feb2025 06:48:47.347] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[20Feb2025 06:48:47.349] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[20Feb2025 06:48:47.350] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[20Feb2025 06:48:47.355] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[20Feb2025 06:48:47.358] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VillagerRerollingReworkModule
+[20Feb2025 06:48:47.359] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[20Feb2025 06:48:47.361] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentPredicatesModule
+[20Feb2025 06:48:47.367] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[20Feb2025 06:48:47.368] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[20Feb2025 06:48:47.369] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.BambooBackportModule
+[20Feb2025 06:48:47.388] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[20Feb2025 06:48:47.391] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[20Feb2025 06:48:47.403] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[20Feb2025 06:48:47.404] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[20Feb2025 06:48:47.406] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[20Feb2025 06:48:47.411] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[20Feb2025 06:48:47.415] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[20Feb2025 06:48:47.421] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[20Feb2025 06:48:47.422] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[20Feb2025 06:48:47.424] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[20Feb2025 06:48:47.445] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[20Feb2025 06:48:47.448] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[20Feb2025 06:48:47.456] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[20Feb2025 06:48:47.482] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[20Feb2025 06:48:47.491] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[20Feb2025 06:48:47.493] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[20Feb2025 06:48:47.497] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[20Feb2025 06:48:47.505] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[20Feb2025 06:48:47.509] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HollowLogsModule
+[20Feb2025 06:48:47.512] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[20Feb2025 06:48:47.515] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RainbowLampsModule
+[20Feb2025 06:48:47.519] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[20Feb2025 06:48:47.536] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[20Feb2025 06:48:47.539] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[20Feb2025 06:48:47.544] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[20Feb2025 06:48:47.547] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[20Feb2025 06:48:47.550] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreMudBlocksModule
+[20Feb2025 06:48:47.552] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[20Feb2025 06:48:47.569] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[20Feb2025 06:48:47.573] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[20Feb2025 06:48:47.577] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[20Feb2025 06:48:47.587] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[20Feb2025 06:48:47.593] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[20Feb2025 06:48:47.600] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[20Feb2025 06:48:47.610] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[20Feb2025 06:48:47.615] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[20Feb2025 06:48:47.645] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[20Feb2025 06:48:47.658] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AncientWoodModule
+[20Feb2025 06:48:47.671] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[20Feb2025 06:48:47.679] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[20Feb2025 06:48:47.688] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[20Feb2025 06:48:47.725] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[20Feb2025 06:48:47.731] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[20Feb2025 06:48:47.732] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[20Feb2025 06:48:47.737] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[20Feb2025 06:48:47.739] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[20Feb2025 06:48:47.742] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.CameraModule
+[20Feb2025 06:48:47.748] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ElytraIndicatorModule
+[20Feb2025 06:48:47.748] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[20Feb2025 06:48:47.752] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[20Feb2025 06:48:47.763] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BucketsShowInhabitantsModule
+[20Feb2025 06:48:47.770] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[20Feb2025 06:48:47.772] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[20Feb2025 06:48:47.778] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[20Feb2025 06:48:47.782] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[20Feb2025 06:48:47.785] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[20Feb2025 06:48:47.795] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[20Feb2025 06:48:47.796] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybindModule
+[20Feb2025 06:48:47.803] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[20Feb2025 06:48:47.806] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.LongRangePickBlockModule
+[20Feb2025 06:48:47.813] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[20Feb2025 06:48:47.823] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[20Feb2025 06:48:47.825] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[20Feb2025 06:48:47.827] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[20Feb2025 06:48:47.833] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[20Feb2025 06:48:47.853] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[20Feb2025 06:48:47.854] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[20Feb2025 06:48:47.856] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[20Feb2025 06:48:47.857] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[20Feb2025 06:48:47.859] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[20Feb2025 06:48:47.860] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[20Feb2025 06:48:47.874] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[20Feb2025 06:48:47.875] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[20Feb2025 06:48:47.877] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[20Feb2025 06:48:47.878] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[20Feb2025 06:48:47.884] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.AutomaticToolRestockModule
+[20Feb2025 06:48:47.894] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[20Feb2025 06:48:47.905] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[20Feb2025 06:48:47.911] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[20Feb2025 06:48:47.925] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[20Feb2025 06:48:47.930] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GoldToolsHaveFortuneModule
+[20Feb2025 06:48:47.935] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[20Feb2025 06:48:47.935] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[20Feb2025 06:48:47.938] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[20Feb2025 06:48:47.944] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[20Feb2025 06:48:47.945] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.RenewableSporeBlossomsModule
+[20Feb2025 06:48:47.946] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CoralOnCactusModule
+[20Feb2025 06:48:47.946] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[20Feb2025 06:48:47.949] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[20Feb2025 06:48:47.952] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[20Feb2025 06:48:47.958] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DyeableItemFramesModule
+[20Feb2025 06:48:47.960] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlabsToBlocksModule
+[20Feb2025 06:48:47.961] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MapWashingModule
+[20Feb2025 06:48:47.972] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[20Feb2025 06:48:47.974] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[20Feb2025 06:48:47.975] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HorsesSwimModule
+[20Feb2025 06:48:47.975] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongeOnWaterPlacementModule
+[20Feb2025 06:48:47.976] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[20Feb2025 06:48:47.977] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[20Feb2025 06:48:47.986] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ZombieVillagersOnNormalModule
+[20Feb2025 06:48:47.986] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[20Feb2025 06:48:47.994] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[20Feb2025 06:48:47.999] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlimesToMagmaCubesModule
+[20Feb2025 06:48:48.002] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[20Feb2025 06:48:48.012] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[20Feb2025 06:48:48.012] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSoundsModule
+[20Feb2025 06:48:48.023] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[20Feb2025 06:48:48.035] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[20Feb2025 06:48:48.039] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[20Feb2025 06:48:48.044] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[20Feb2025 06:48:48.049] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DiamondRepairModule
+[20Feb2025 06:48:48.052] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SaferCreaturesModule
+[20Feb2025 06:48:48.059] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[20Feb2025 06:48:48.064] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[20Feb2025 06:48:48.069] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[20Feb2025 06:48:48.073] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.NoDurabilityOnCosmeticsModule
+[20Feb2025 06:48:48.077] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongesBetterModule
+[20Feb2025 06:48:48.081] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[20Feb2025 06:48:48.089] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[20Feb2025 06:48:48.094] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[20Feb2025 06:48:48.098] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[20Feb2025 06:48:48.106] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[20Feb2025 06:48:48.116] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[20Feb2025 06:48:48.125] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[20Feb2025 06:48:48.134] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[20Feb2025 06:48:48.142] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[20Feb2025 06:48:48.145] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[20Feb2025 06:48:48.150] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[20Feb2025 06:48:48.152] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[20Feb2025 06:48:48.155] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[20Feb2025 06:48:48.160] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[20Feb2025 06:48:48.170] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[20Feb2025 06:48:48.183] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[20Feb2025 06:48:48.195] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[20Feb2025 06:48:48.197] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[20Feb2025 06:48:48.202] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[20Feb2025 06:48:48.206] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[20Feb2025 06:48:48.213] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TorchArrowModule
+[20Feb2025 06:48:48.219] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[20Feb2025 06:48:48.224] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[20Feb2025 06:48:48.233] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[20Feb2025 06:48:48.240] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[20Feb2025 06:48:48.248] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[20Feb2025 06:48:48.260] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[20Feb2025 06:48:48.270] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[20Feb2025 06:48:48.289] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[20Feb2025 06:48:48.301] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[20Feb2025 06:48:48.321] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[20Feb2025 06:48:48.334] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[20Feb2025 06:48:48.342] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[20Feb2025 06:48:48.349] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[20Feb2025 06:48:48.364] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONSTRUCT
+[20Feb2025 06:48:48.662] [modloading-worker-0/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[20Feb2025 06:48:48.669] [modloading-worker-0/INFO] [quark/]: Loading Module Ender Watcher
+[20Feb2025 06:48:48.670] [modloading-worker-0/INFO] [quark/]: Loading Module Redstone Randomizer
+[20Feb2025 06:48:48.670] [modloading-worker-0/INFO] [quark/]: Loading Module Feeding Trough
+[20Feb2025 06:48:48.678] [modloading-worker-0/INFO] [quark/]: Loading Module Metal Buttons
+[20Feb2025 06:48:48.679] [modloading-worker-0/INFO] [quark/]: Loading Module Iron Rod
+[20Feb2025 06:48:48.679] [modloading-worker-0/INFO] [quark/]: Loading Module Obsidian Plate
+[20Feb2025 06:48:48.680] [modloading-worker-0/INFO] [quark/]: Loading Module Chains Connect Blocks
+[20Feb2025 06:48:48.680] [modloading-worker-0/INFO] [quark/]: Loading Module Gravisand
+[20Feb2025 06:48:48.681] [modloading-worker-0/INFO] [quark/]: Loading Module Jukebox Automation
+[20Feb2025 06:48:48.685] [modloading-worker-0/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[20Feb2025 06:48:48.685] [modloading-worker-0/INFO] [quark/]: Loading Module Chute
+[20Feb2025 06:48:48.686] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Ladders
+[20Feb2025 06:48:48.687] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Bookshelves
+[20Feb2025 06:48:48.688] [modloading-worker-0/INFO] [quark/]: Loading Module Bamboo Backport
+[20Feb2025 06:48:48.688] [modloading-worker-0/INFO] [quark/]: Loading Module Compressed Blocks
+[20Feb2025 06:48:48.689] [modloading-worker-0/INFO] [quark/]: Loading Module More Potted Plants
+[20Feb2025 06:48:48.689] [modloading-worker-0/INFO] [quark/]: Loading Module Duskbound Blocks
+[20Feb2025 06:48:48.690] [modloading-worker-0/INFO] [quark/]: Loading Module Wooden Posts
+[20Feb2025 06:48:48.690] [modloading-worker-0/INFO] [quark/]: Loading Module Thatch
+[20Feb2025 06:48:48.691] [modloading-worker-0/INFO] [quark/]: Loading Module More Stone Variants
+[20Feb2025 06:48:48.692] [modloading-worker-0/INFO] [quark/]: Loading Module Shear Vines
+[20Feb2025 06:48:48.694] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[20Feb2025 06:48:48.695] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Bars
+[20Feb2025 06:48:48.695] [modloading-worker-0/INFO] [quark/]: Loading Module Rope
+[20Feb2025 06:48:48.696] [modloading-worker-0/INFO] [quark/]: Loading Module Celebratory Lamps
+[20Feb2025 06:48:48.697] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Sandstone
+[20Feb2025 06:48:48.697] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Chests
+[20Feb2025 06:48:48.707] [modloading-worker-0/INFO] [quark/]: Loading Module Leaf Carpet
+[20Feb2025 06:48:48.707] [modloading-worker-0/INFO] [quark/]: Loading Module Framed Glass
+[20Feb2025 06:48:48.708] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Planks
+[20Feb2025 06:48:48.708] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Furnaces
+[20Feb2025 06:48:48.708] [modloading-worker-0/INFO] [quark/]: Loading Module Hedges
+[20Feb2025 06:48:48.709] [modloading-worker-0/INFO] [quark/]: Loading Module Hollow Logs
+[20Feb2025 06:48:48.711] [modloading-worker-0/INFO] [quark/]: Loading Module Midori
+[20Feb2025 06:48:48.712] [modloading-worker-0/INFO] [quark/]: Loading Module Rainbow Lamps
+[20Feb2025 06:48:48.712] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Slabs
+[20Feb2025 06:48:48.713] [modloading-worker-0/INFO] [quark/]: Loading Module Shingles
+[20Feb2025 06:48:48.713] [modloading-worker-0/INFO] [quark/]: Loading Module Sturdy Stone
+[20Feb2025 06:48:48.713] [modloading-worker-0/INFO] [quark/]: Loading Module Stools
+[20Feb2025 06:48:48.717] [modloading-worker-0/INFO] [quark/]: Loading Module Raw Metal Bricks
+[20Feb2025 06:48:48.717] [modloading-worker-0/INFO] [quark/]: Loading Module More Mud Blocks
+[20Feb2025 06:48:48.718] [modloading-worker-0/INFO] [quark/]: Loading Module Grate
+[20Feb2025 06:48:48.718] [modloading-worker-0/INFO] [quark/]: Loading Module Japanese Palette
+[20Feb2025 06:48:48.719] [modloading-worker-0/INFO] [quark/]: Loading Module More Brick Types
+[20Feb2025 06:48:48.719] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Item Frame
+[20Feb2025 06:48:48.720] [modloading-worker-0/INFO] [quark/]: Loading Module Industrial Palette
+[20Feb2025 06:48:48.720] [modloading-worker-0/INFO] [quark/]: Loading Module Quick Armor Swapping
+[20Feb2025 06:48:48.723] [modloading-worker-0/INFO] [quark/]: Loading Module Item Sharing
+[20Feb2025 06:48:48.723] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Tool Restock
+[20Feb2025 06:48:48.730] [modloading-worker-0/INFO] [quark/]: Loading Module Expanded Item Interactions
+[20Feb2025 06:48:48.734] [modloading-worker-0/INFO] [quark/]: Loading Module Inventory Sorting
+[20Feb2025 06:48:48.734] [modloading-worker-0/INFO] [quark/]: Loading Module Hotbar Changer
+[20Feb2025 06:48:48.734] [modloading-worker-0/INFO] [quark/]: Loading Module Easy Transfering
+[20Feb2025 06:48:48.735] [modloading-worker-0/INFO] [quark/]: Loading Module Beacon Redirection
+[20Feb2025 06:48:48.735] [modloading-worker-0/INFO] [quark/]: Loading Module Ambient Discs
+[20Feb2025 06:48:48.738] [modloading-worker-0/INFO] [quark/]: Loading Module Pathfinder Maps
+[20Feb2025 06:48:48.745] [modloading-worker-0/INFO] [quark/]: Loading Module Color Runes
+[20Feb2025 06:48:48.752] [modloading-worker-0/INFO] [quark/]: Loading Module Pickarang
+[20Feb2025 06:48:48.754] [modloading-worker-0/INFO] [quark/]: Loading Module Parrot Eggs
+[20Feb2025 06:48:48.759] [modloading-worker-0/INFO] [quark/]: Loading Module Trowel
+[20Feb2025 06:48:48.759] [modloading-worker-0/INFO] [quark/]: Loading Module Abacus
+[20Feb2025 06:48:48.760] [modloading-worker-0/INFO] [quark/]: Loading Module Bottled Cloud
+[20Feb2025 06:48:48.762] [modloading-worker-0/INFO] [quark/]: Loading Module Torch Arrow
+[20Feb2025 06:48:48.763] [modloading-worker-0/INFO] [quark/]: Loading Module Bundle Recipe
+[20Feb2025 06:48:48.763] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Tomes
+[20Feb2025 06:48:48.786] [modloading-worker-0/INFO] [quark/]: Loading Module Endermosh Music Disc
+[20Feb2025 06:48:48.788] [modloading-worker-0/INFO] [quark/]: Loading Module Seed Pouch
+[20Feb2025 06:48:48.790] [modloading-worker-0/INFO] [quark/]: Loading Module Skull Pikes
+[20Feb2025 06:48:48.797] [modloading-worker-0/INFO] [quark/]: Loading Module Slime In A Bucket
+[20Feb2025 06:48:48.799] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Tools Have Fortune
+[20Feb2025 06:48:48.802] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[20Feb2025 06:48:48.804] [modloading-worker-0/INFO] [quark/]: Loading Module Utility Recipes
+[20Feb2025 06:48:48.810] [modloading-worker-0/INFO] [quark/]: Loading Module Poison Potato Usage
+[20Feb2025 06:48:48.811] [modloading-worker-0/INFO] [quark/]: Loading Module Better Elytra Rocket
+[20Feb2025 06:48:48.815] [modloading-worker-0/INFO] [quark/]: Loading Module Renewable Spore Blossoms
+[20Feb2025 06:48:48.816] [modloading-worker-0/INFO] [quark/]: Loading Module Coral On Cactus
+[20Feb2025 06:48:48.816] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Shard
+[20Feb2025 06:48:48.817] [modloading-worker-0/INFO] [quark/]: Loading Module Pig Litters
+[20Feb2025 06:48:48.822] [modloading-worker-0/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[20Feb2025 06:48:48.826] [modloading-worker-0/INFO] [quark/]: Loading Module Dyeable Item Frames
+[20Feb2025 06:48:48.827] [modloading-worker-0/INFO] [quark/]: Loading Module Slabs To Blocks
+[20Feb2025 06:48:48.836] [modloading-worker-0/INFO] [quark/]: Loading Module Map Washing
+[20Feb2025 06:48:48.836] [modloading-worker-0/INFO] [quark/]: Loading Module Enhanced Ladders
+[20Feb2025 06:48:48.837] [modloading-worker-0/INFO] [quark/]: Loading Module Reacharound Placing
+[20Feb2025 06:48:48.838] [modloading-worker-0/INFO] [quark/]: Loading Module Horses Swim
+[20Feb2025 06:48:48.838] [modloading-worker-0/INFO] [quark/]: Loading Module Sponge On Water Placement
+[20Feb2025 06:48:48.844] [modloading-worker-0/INFO] [quark/]: Loading Module Armed Armor Stands
+[20Feb2025 06:48:48.845] [modloading-worker-0/INFO] [quark/]: Loading Module Double Door Opening
+[20Feb2025 06:48:48.845] [modloading-worker-0/INFO] [quark/]: Loading Module Zombie Villagers On Normal
+[20Feb2025 06:48:48.847] [modloading-worker-0/INFO] [quark/]: Loading Module Hoe Harvesting
+[20Feb2025 06:48:48.849] [modloading-worker-0/INFO] [quark/]: Loading Module Emotes
+[20Feb2025 06:48:48.851] [modloading-worker-0/INFO] [quark/]: Loading Module Slimes To Magma Cubes
+[20Feb2025 06:48:48.851] [modloading-worker-0/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[20Feb2025 06:48:48.855] [modloading-worker-0/INFO] [quark/]: Loading Module Vexes Die With Their Masters
+[20Feb2025 06:48:48.857] [modloading-worker-0/INFO] [quark/]: Loading Module More Note Block Sounds
+[20Feb2025 06:48:48.858] [modloading-worker-0/INFO] [quark/]: Loading Module Pat The Dogs
+[20Feb2025 06:48:48.863] [modloading-worker-0/INFO] [quark/]: Loading Module Grab Chickens
+[20Feb2025 06:48:48.864] [modloading-worker-0/INFO] [quark/]: Loading Module More Banner Layers
+[20Feb2025 06:48:48.865] [modloading-worker-0/INFO] [quark/]: Loading Module Replace Scaffolding
+[20Feb2025 06:48:48.865] [modloading-worker-0/INFO] [quark/]: Loading Module Diamond Repair
+[20Feb2025 06:48:48.865] [modloading-worker-0/INFO] [quark/]: Loading Module Safer Creatures
+[20Feb2025 06:48:48.866] [modloading-worker-0/INFO] [quark/]: Loading Module Lock Rotation
+[20Feb2025 06:48:48.868] [modloading-worker-0/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[20Feb2025 06:48:48.871] [modloading-worker-0/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[20Feb2025 06:48:48.873] [modloading-worker-0/INFO] [quark/]: Loading Module No Durability On Cosmetics
+[20Feb2025 06:48:48.877] [modloading-worker-0/INFO] [quark/]: Loading Module Sponges Better
+[20Feb2025 06:48:48.877] [modloading-worker-0/INFO] [quark/]: Loading Module Sign Editing
+[20Feb2025 06:48:48.878] [modloading-worker-0/INFO] [quark/]: Loading Module Simple Harvest
+[20Feb2025 06:48:48.879] [modloading-worker-0/INFO] [quark/]: Loading Module Dragon Scales
+[20Feb2025 06:48:48.882] [modloading-worker-0/INFO] [quark/]: Loading Module Shulker Packing
+[20Feb2025 06:48:48.885] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[20Feb2025 06:48:48.885] [modloading-worker-0/INFO] [quark/]: Loading Module Permafrost
+[20Feb2025 06:48:48.885] [modloading-worker-0/INFO] [quark/]: Loading Module Fairy Rings
+[20Feb2025 06:48:48.885] [modloading-worker-0/INFO] [quark/]: Loading Module Big Stone Clusters
+[20Feb2025 06:48:48.887] [modloading-worker-0/INFO] [quark/]: Loading Module Spiral Spires
+[20Feb2025 06:48:48.891] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Wood
+[20Feb2025 06:48:48.894] [modloading-worker-0/INFO] [quark/]: Loading Module New Stone Types
+[20Feb2025 06:48:48.896] [modloading-worker-0/INFO] [quark/]: Loading Module Blossom Trees
+[20Feb2025 06:48:48.897] [modloading-worker-0/INFO] [quark/]: Loading Module Glimmering Weald
+[20Feb2025 06:48:48.897] [modloading-worker-0/INFO] [quark/]: Loading Module Monster Box
+[20Feb2025 06:48:48.899] [modloading-worker-0/INFO] [quark/]: Loading Module Azalea Wood
+[20Feb2025 06:48:48.899] [modloading-worker-0/INFO] [quark/]: Loading Module No More Lava Pockets
+[20Feb2025 06:48:48.899] [modloading-worker-0/INFO] [quark/]: Loading Module Corundum
+[20Feb2025 06:48:48.900] [modloading-worker-0/INFO] [quark/]: Loading Module Chorus Vegetation
+[20Feb2025 06:48:48.900] [modloading-worker-0/INFO] [quark/]: Loading Module Foxhound
+[20Feb2025 06:48:48.911] [modloading-worker-0/INFO] [quark/]: Loading Module Wraith
+[20Feb2025 06:48:48.911] [modloading-worker-0/INFO] [quark/]: Loading Module Crabs
+[20Feb2025 06:48:48.915] [modloading-worker-0/INFO] [quark/]: Loading Module Forgotten
+[20Feb2025 06:48:48.916] [modloading-worker-0/INFO] [quark/]: Loading Module Shiba
+[20Feb2025 06:48:48.916] [modloading-worker-0/INFO] [quark/]: Loading Module Stonelings
+[20Feb2025 06:48:48.924] [modloading-worker-0/INFO] [quark/]: Loading Module Toretoise
+[20Feb2025 06:48:48.927] [modloading-worker-0/INFO] [quark/]: Loading Module Camera
+[20Feb2025 06:48:48.929] [modloading-worker-0/INFO] [quark/]: Loading Module Elytra Indicator
+[20Feb2025 06:48:48.929] [modloading-worker-0/INFO] [quark/]: Loading Module Improved Tooltips
+[20Feb2025 06:48:48.929] [modloading-worker-0/INFO] [quark/]: Loading Module Greener Grass
+[20Feb2025 06:48:48.929] [modloading-worker-0/INFO] [quark/]: Loading Module Buckets Show Inhabitants
+[20Feb2025 06:48:48.929] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Candles
+[20Feb2025 06:48:48.930] [modloading-worker-0/INFO] [quark/]: Loading Module Auto Walk Keybind
+[20Feb2025 06:48:48.930] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Animal Textures
+[20Feb2025 06:48:48.930] [modloading-worker-0/INFO] [quark/]: Loading Module Microcrafting Helper
+[20Feb2025 06:48:48.930] [modloading-worker-0/INFO] [quark/]: Loading Module Uses For Curses
+[20Feb2025 06:48:48.931] [modloading-worker-0/INFO] [quark/]: Loading Module Wool Shuts Up Minecarts
+[20Feb2025 06:48:48.931] [modloading-worker-0/INFO] [quark/]: Loading Module Back Button Keybind
+[20Feb2025 06:48:48.931] [modloading-worker-0/INFO] [quark/]: Loading Module Chest Searching
+[20Feb2025 06:48:48.932] [modloading-worker-0/INFO] [quark/]: Loading Module Long Range Pick Block
+[20Feb2025 06:48:48.932] [modloading-worker-0/INFO] [quark/]: Loading Module Usage Ticker
+[20Feb2025 06:48:48.932] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Selector
+[20Feb2025 06:48:48.936] [modloading-worker-0/INFO] [quark/]: Loading Module Narrator Readout
+[20Feb2025 06:48:48.936] [modloading-worker-0/INFO] [quark/]: Loading Module Climate Control Remover
+[20Feb2025 06:48:48.937] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantments Begone
+[20Feb2025 06:48:48.937] [modloading-worker-0/INFO] [quark/]: Loading Module Game Nerfs
+[20Feb2025 06:48:48.937] [modloading-worker-0/INFO] [quark/]: Loading Module Spawner Replacer
+[20Feb2025 06:48:48.937] [modloading-worker-0/INFO] [quark/]: Loading Module Adjustable Chat
+[20Feb2025 06:48:48.938] [modloading-worker-0/INFO] [quark/]: Loading Module Villager Rerolling Rework
+[20Feb2025 06:48:48.938] [modloading-worker-0/INFO] [quark/]: Loading Module Overlay Shader
+[20Feb2025 06:48:48.938] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantment Predicates
+[20Feb2025 06:48:48.938] [modloading-worker-0/INFO] [quark/]: Loading Module Pipes
+[20Feb2025 06:48:48.939] [modloading-worker-0/INFO] [quark/]: Loading Module Backpack
+[20Feb2025 06:48:48.940] [modloading-worker-0/INFO] [quark/]: Loading Module Tiny Potato
+[20Feb2025 06:48:48.940] [modloading-worker-0/INFO] [quark/]: Loading Module Matrix Enchanting
+[20Feb2025 06:48:48.940] [modloading-worker-0/INFO] [quark/]: Loading Module Totem Of Holding
+[20Feb2025 06:48:48.941] [modloading-worker-0/INFO] [quark/]: Loading Module Crate
+[20Feb2025 06:48:48.941] [modloading-worker-0/INFO] [quark/]: Loading Module Magnets
+[20Feb2025 06:48:49.344] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Feb2025 06:48:49.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id candlelight:typewriter_sync
+[20Feb2025 06:48:49.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id candlelight:sign_note
+[20Feb2025 06:48:49.933] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id beachparty:mouse_scroll
+[20Feb2025 06:48:49.936] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[20Feb2025 06:48:49.939] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[20Feb2025 06:48:50.134] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[20Feb2025 06:48:50.263] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod enchantinginfuser
+[20Feb2025 06:48:50.539] [main/INFO] [quark/]: Dispatching Module Step REGISTER
+[20Feb2025 06:48:52.403] [main/INFO] [quark/]: Dispatching Module Step POST_REGISTER
+[20Feb2025 06:48:55.114] [main/INFO] [moonlight/]: Initialized block sets in 31ms
+[20Feb2025 06:48:58.219] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameablePenguinEntity
+[20Feb2025 06:48:58.220] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameablePenguinEntity
+[20Feb2025 06:48:58.220] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameablePenguinEntity
+[20Feb2025 06:48:58.221] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameableChikoteEntity
+[20Feb2025 06:48:58.221] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameableChikoteEntity
+[20Feb2025 06:48:58.221] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.core.FlyingTameableGAnimal
+[20Feb2025 06:48:58.222] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.ScarecrowAllayEntity
+[20Feb2025 06:48:58.222] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.ScarecrowAllayEntity
+[20Feb2025 06:48:58.222] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameableBeetleEntity
+[20Feb2025 06:48:58.225] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameableBeetleEntity
+[20Feb2025 06:48:58.225] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.Wolf from class com.modderg.tameablebeasts.entities.QuetzalcoatlusEntity
+[20Feb2025 06:48:58.226] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.QuetzalcoatlusEntity
+[20Feb2025 06:48:58.226] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.QuetzalcoatlusEntity
+[20Feb2025 06:48:58.227] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.QuetzalcoatlusEntity
+[20Feb2025 06:48:58.228] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.GiantTameableGrasshopperEntity
+[20Feb2025 06:48:58.228] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.GiantTameableGrasshopperEntity
+[20Feb2025 06:48:58.233] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.TameableGroundBeetleEntity
+[20Feb2025 06:48:58.233] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.Wolf from class com.modderg.tameablebeasts.entities.TameableGroundBeetleEntity
+[20Feb2025 06:48:58.233] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.entities.TameableRacoonEntity from class com.modderg.tameablebeasts.entities.GiantTameableRolyPolyEntity
+[20Feb2025 06:48:58.234] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class org.infernalstudios.infernalexp.entities.ShroomloinEntity from class org.infernalstudios.infernalexp.entities.WarpbeetleEntity
+[20Feb2025 06:48:58.790] [main/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[20Feb2025 06:48:59.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[20Feb2025 06:48:59.334] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[20Feb2025 06:48:59.340] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step SETUP
+[20Feb2025 06:48:59.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[20Feb2025 06:48:59.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Starting version check at https://infernalstudios.org/api/mods/infernalexpansion/forge
+[20Feb2025 06:48:59.732] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[20Feb2025 06:48:59.778] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[20Feb2025 06:48:59.783] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[20Feb2025 06:48:59.788] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[20Feb2025 06:48:59.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Found status: BETA Current: 2.5.1 Target: null
+[20Feb2025 06:48:59.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[20Feb2025 06:48:59.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: AHEAD Current: 1.9.9-backport.1 Target: null
+[20Feb2025 06:48:59.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[20Feb2025 06:48:59.967] [main/INFO] [moonlight/]: Initialized color sets in 145ms
+[20Feb2025 06:49:00.013] [main/INFO] [moonlight/]: Initialized color sets in 44ms
+[20Feb2025 06:49:00.081] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20Feb2025 06:49:00.082] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[20Feb2025 06:49:00.082] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[20Feb2025 06:49:00.083] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[20Feb2025 06:49:00.083] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[20Feb2025 06:49:00.084] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[20Feb2025 06:49:00.084] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[20Feb2025 06:49:00.167] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 3, 0, 0, 0, 0, 0, 1] ms
+[20Feb2025 06:49:00.300] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 0 to biped/living/idle
+[20Feb2025 06:49:00.300] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 1 to biped/living/walk
+[20Feb2025 06:49:00.300] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 2 to biped/living/fly
+[20Feb2025 06:49:00.300] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 3 to biped/living/creative_idle
+[20Feb2025 06:49:00.300] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 4 to biped/living/creative_fly
+[20Feb2025 06:49:00.309] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 5 to biped/living/creative_fly_backward
+[20Feb2025 06:49:00.310] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 6 to 
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 7 to biped/living/hold_crossbow
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 8 to biped/living/hold_map_twohand
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 9 to biped/living/hold_map_offhand
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 10 to biped/living/hold_map_mainhand
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 11 to biped/living/hold_map_twohand_move
+[20Feb2025 06:49:00.315] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 12 to biped/living/hold_map_offhand_move
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 13 to biped/living/hold_map_mainhand_move
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 14 to biped/living/run
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 15 to biped/living/sneak
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 16 to biped/living/swim
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 17 to biped/living/float
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 18 to biped/living/kneel
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 19 to biped/living/fall
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 20 to biped/living/mount
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 21 to biped/living/sit
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 22 to biped/living/dig
+[20Feb2025 06:49:00.316] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 23 to biped/living/dig_offhand
+[20Feb2025 06:49:00.317] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 24 to 
+[20Feb2025 06:49:00.317] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 25 to biped/combat/bow_aim_mid
+[20Feb2025 06:49:00.317] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 26 to biped/combat/bow_shot_mid
+[20Feb2025 06:49:00.319] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 27 to biped/living/drink
+[20Feb2025 06:49:00.331] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 28 to biped/living/drink
+[20Feb2025 06:49:00.331] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 29 to biped/living/drink_offhand
+[20Feb2025 06:49:00.331] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 30 to biped/living/eat
+[20Feb2025 06:49:00.331] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 31 to biped/living/eat
+[20Feb2025 06:49:00.332] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 32 to biped/living/eat_offhand
+[20Feb2025 06:49:00.332] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 33 to biped/living/spyglass
+[20Feb2025 06:49:00.333] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 34 to biped/living/spyglass
+[20Feb2025 06:49:00.333] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 35 to biped/living/spyglass_offhand
+[20Feb2025 06:49:00.333] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 36 to biped/combat/crossbow_aim_mid
+[20Feb2025 06:49:00.334] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 37 to biped/combat/crossbow_shot_mid
+[20Feb2025 06:49:00.334] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 38 to biped/combat/crossbow_reload
+[20Feb2025 06:49:00.334] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 39 to biped/living/jump
+[20Feb2025 06:49:00.335] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 40 to biped/living/run_spear
+[20Feb2025 06:49:00.335] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 41 to biped/living/shield
+[20Feb2025 06:49:00.335] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 42 to biped/living/shield
+[20Feb2025 06:49:00.335] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 43 to biped/living/shield_mirror
+[20Feb2025 06:49:00.336] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 44 to biped/living/hold_greatsword
+[20Feb2025 06:49:00.336] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 45 to biped/living/hold_uchigatana_sheath
+[20Feb2025 06:49:00.336] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 46 to biped/living/hold_uchigatana
+[20Feb2025 06:49:00.336] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 47 to biped/living/hold_tachi
+[20Feb2025 06:49:00.337] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 48 to biped/living/hold_longsword
+[20Feb2025 06:49:00.337] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 49 to biped/living/hold_spear
+[20Feb2025 06:49:00.337] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 50 to biped/living/hold_dual
+[20Feb2025 06:49:00.337] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 51 to biped/living/hold_liechtenauer
+[20Feb2025 06:49:00.338] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 52 to biped/living/walk_greatsword
+[20Feb2025 06:49:00.338] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 53 to biped/living/walk_spear
+[20Feb2025 06:49:00.338] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 54 to biped/living/walk_uchigatana_sheath
+[20Feb2025 06:49:00.339] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 55 to biped/living/walk_uchigatana
+[20Feb2025 06:49:00.339] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 56 to biped/living/walk_twohand
+[20Feb2025 06:49:00.339] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 57 to biped/living/walk_longsword
+[20Feb2025 06:49:00.339] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 58 to biped/living/walk_liechtenauer
+[20Feb2025 06:49:00.340] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 59 to biped/living/run_greatsword
+[20Feb2025 06:49:00.340] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 60 to biped/living/run_uchigatana
+[20Feb2025 06:49:00.340] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 61 to biped/living/run_uchigatana_sheath
+[20Feb2025 06:49:00.340] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 62 to biped/living/run_dual
+[20Feb2025 06:49:00.340] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 63 to biped/living/run_longsword
+[20Feb2025 06:49:00.341] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 64 to biped/living/uchigatana_scrap
+[20Feb2025 06:49:00.345] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 65 to biped/living/liechtenauer_ready
+[20Feb2025 06:49:00.345] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 66 to biped/combat/hit_shield
+[20Feb2025 06:49:00.346] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 67 to biped/combat/hit_shield
+[20Feb2025 06:49:00.346] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 68 to biped/combat/hit_shield_mirror
+[20Feb2025 06:49:00.346] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 69 to biped/living/climb
+[20Feb2025 06:49:00.346] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 70 to biped/living/sleep
+[20Feb2025 06:49:00.347] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 71 to biped/combat/javelin_aim_mid
+[20Feb2025 06:49:00.347] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 72 to biped/combat/javelin_throw_mid
+[20Feb2025 06:49:00.347] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 73 to off_highest
+[20Feb2025 06:49:00.348] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 74 to off_middle
+[20Feb2025 06:49:00.354] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 75 to zombie/idle
+[20Feb2025 06:49:00.354] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 76 to zombie/walk
+[20Feb2025 06:49:00.354] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 77 to zombie/chase
+[20Feb2025 06:49:00.355] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 78 to creeper/idle
+[20Feb2025 06:49:00.355] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 79 to creeper/walk
+[20Feb2025 06:49:00.355] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 80 to enderman/idle
+[20Feb2025 06:49:00.355] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 81 to enderman/walk
+[20Feb2025 06:49:00.356] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 82 to enderman/rage_idle
+[20Feb2025 06:49:00.356] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 83 to enderman/rage_walk
+[20Feb2025 06:49:00.356] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 84 to wither_skeleton/walk
+[20Feb2025 06:49:00.357] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 85 to wither_skeleton/chase
+[20Feb2025 06:49:00.357] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 86 to wither_skeleton/idle
+[20Feb2025 06:49:00.358] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 87 to wither_skeleton/special_spawn
+[20Feb2025 06:49:00.358] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 88 to spider/idle
+[20Feb2025 06:49:00.358] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 89 to spider/crawl
+[20Feb2025 06:49:00.359] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 90 to iron_golem/idle
+[20Feb2025 06:49:00.359] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 91 to iron_golem/walk
+[20Feb2025 06:49:00.359] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 92 to hoglin/idle
+[20Feb2025 06:49:00.360] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 93 to hoglin/walk
+[20Feb2025 06:49:00.360] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 94 to illager/idle
+[20Feb2025 06:49:00.360] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 95 to illager/walk
+[20Feb2025 06:49:00.360] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 96 to illager/idle_aggressive
+[20Feb2025 06:49:00.361] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 97 to illager/chase
+[20Feb2025 06:49:00.361] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 98 to illager/spellcast
+[20Feb2025 06:49:00.361] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 99 to ravager/idle
+[20Feb2025 06:49:00.361] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 100 to ravager/walk
+[20Feb2025 06:49:00.362] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 101 to vex/idle
+[20Feb2025 06:49:00.362] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 102 to vex/flip
+[20Feb2025 06:49:00.362] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 103 to piglin/idle
+[20Feb2025 06:49:00.362] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 104 to piglin/walk
+[20Feb2025 06:49:00.362] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 105 to piglin/zombified_idle
+[20Feb2025 06:49:00.363] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 106 to piglin/zombified_walk
+[20Feb2025 06:49:00.365] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 107 to piglin/zombified_chase
+[20Feb2025 06:49:00.365] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 108 to piglin/celebrate1
+[20Feb2025 06:49:00.365] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 109 to piglin/celebrate2
+[20Feb2025 06:49:00.366] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 110 to piglin/celebrate3
+[20Feb2025 06:49:00.366] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 111 to piglin/admire
+[20Feb2025 06:49:00.366] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 112 to wither/idle
+[20Feb2025 06:49:00.366] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 113 to biped/skill/guard_spear
+[20Feb2025 06:49:00.367] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 114 to biped/skill/guard_sword
+[20Feb2025 06:49:00.367] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 115 to biped/skill/guard_dualsword
+[20Feb2025 06:49:00.367] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 116 to biped/skill/guard_greatsword
+[20Feb2025 06:49:00.372] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 117 to biped/skill/guard_uchigatana
+[20Feb2025 06:49:00.372] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 118 to biped/skill/guard_longsword
+[20Feb2025 06:49:00.372] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 119 to biped/skill/steel_whirlwind_charging
+[20Feb2025 06:49:00.373] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 120 to biped/skill/roll_forward
+[20Feb2025 06:49:00.374] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 121 to biped/skill/roll_backward
+[20Feb2025 06:49:00.374] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 122 to biped/skill/step_forward
+[20Feb2025 06:49:00.374] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 123 to biped/skill/step_backward
+[20Feb2025 06:49:00.374] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 124 to biped/skill/step_left
+[20Feb2025 06:49:00.375] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 125 to biped/skill/step_right
+[20Feb2025 06:49:00.375] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 126 to biped/skill/knockdown_wakeup_left
+[20Feb2025 06:49:00.375] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 127 to biped/skill/knockdown_wakeup_right
+[20Feb2025 06:49:00.376] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 128 to biped/skill/demolition_leap_charge
+[20Feb2025 06:49:00.376] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 129 to biped/skill/demolition_leap
+[20Feb2025 06:49:00.376] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 130 to biped/skill/phantom_ascent_forward
+[20Feb2025 06:49:00.377] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 131 to biped/skill/phantom_ascent_backward
+[20Feb2025 06:49:00.388] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 132 to biped/combat/fist_auto1
+[20Feb2025 06:49:00.391] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 133 to biped/combat/fist_auto2
+[20Feb2025 06:49:00.392] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 134 to biped/combat/fist_auto3
+[20Feb2025 06:49:00.392] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 135 to biped/combat/fist_dash
+[20Feb2025 06:49:00.393] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 136 to biped/combat/sword_auto1
+[20Feb2025 06:49:00.393] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 137 to biped/combat/sword_auto2
+[20Feb2025 06:49:00.394] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 138 to biped/combat/sword_auto3
+[20Feb2025 06:49:00.394] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 139 to biped/combat/sword_dash
+[20Feb2025 06:49:00.394] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 140 to biped/combat/greatsword_auto1
+[20Feb2025 06:49:00.395] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 141 to biped/combat/greatsword_auto2
+[20Feb2025 06:49:00.395] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 142 to biped/combat/greatsword_dash
+[20Feb2025 06:49:00.395] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 143 to biped/combat/spear_onehand_auto
+[20Feb2025 06:49:00.396] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 144 to biped/combat/spear_twohand_auto1
+[20Feb2025 06:49:00.396] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 145 to biped/combat/spear_twohand_auto2
+[20Feb2025 06:49:00.396] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 146 to biped/combat/spear_dash
+[20Feb2025 06:49:00.396] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 147 to 136
+[20Feb2025 06:49:00.399] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 148 to biped/combat/sword_auto4
+[20Feb2025 06:49:00.399] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 149 to biped/combat/tool_dash
+[20Feb2025 06:49:00.399] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 150 to biped/combat/axe_dash
+[20Feb2025 06:49:00.400] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 151 to biped/combat/sword_dual_auto1
+[20Feb2025 06:49:00.400] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 152 to biped/combat/sword_dual_auto2
+[20Feb2025 06:49:00.401] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 153 to biped/combat/sword_dual_auto3
+[20Feb2025 06:49:00.401] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 154 to biped/combat/sword_dual_dash
+[20Feb2025 06:49:00.401] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 155 to biped/combat/uchigatana_auto1
+[20Feb2025 06:49:00.401] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 156 to biped/combat/uchigatana_auto2
+[20Feb2025 06:49:00.402] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 157 to biped/combat/uchigatana_auto3
+[20Feb2025 06:49:00.402] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 158 to biped/combat/uchigatana_dash
+[20Feb2025 06:49:00.414] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 159 to biped/combat/uchigatana_sheath_auto
+[20Feb2025 06:49:00.414] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 160 to biped/combat/uchigatana_sheath_dash
+[20Feb2025 06:49:00.414] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 161 to biped/combat/axe_auto1
+[20Feb2025 06:49:00.414] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 162 to biped/combat/axe_auto2
+[20Feb2025 06:49:00.415] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 163 to biped/combat/longsword_auto1
+[20Feb2025 06:49:00.415] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 164 to biped/combat/longsword_auto2
+[20Feb2025 06:49:00.415] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 165 to biped/combat/longsword_auto3
+[20Feb2025 06:49:00.416] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 166 to biped/combat/longsword_dash
+[20Feb2025 06:49:00.416] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 167 to biped/combat/longsword_liechtenauer_auto1
+[20Feb2025 06:49:00.416] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 168 to biped/combat/longsword_liechtenauer_auto2
+[20Feb2025 06:49:00.416] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 169 to biped/combat/longsword_liechtenauer_auto3
+[20Feb2025 06:49:00.417] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 170 to biped/combat/tachi_auto1
+[20Feb2025 06:49:00.417] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 171 to biped/combat/tachi_auto2
+[20Feb2025 06:49:00.417] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 172 to biped/combat/tachi_auto3
+[20Feb2025 06:49:00.417] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 173 to biped/combat/tachi_dash
+[20Feb2025 06:49:00.418] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 174 to biped/combat/dagger_auto1
+[20Feb2025 06:49:00.418] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 175 to biped/combat/dagger_auto2
+[20Feb2025 06:49:00.418] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 176 to biped/combat/dagger_auto3
+[20Feb2025 06:49:00.418] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 177 to biped/combat/dagger_dash
+[20Feb2025 06:49:00.419] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 178 to biped/combat/dagger_dual_auto1
+[20Feb2025 06:49:00.419] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 179 to biped/combat/dagger_dual_auto2
+[20Feb2025 06:49:00.419] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 180 to biped/combat/dagger_dual_auto3
+[20Feb2025 06:49:00.420] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 181 to biped/combat/dagger_dual_auto4
+[20Feb2025 06:49:00.420] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 182 to biped/combat/dagger_dual_dash
+[20Feb2025 06:49:00.420] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 183 to biped/combat/trident_auto1
+[20Feb2025 06:49:00.421] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 184 to biped/combat/trident_auto2
+[20Feb2025 06:49:00.421] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 185 to biped/combat/trident_auto3
+[20Feb2025 06:49:00.421] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 186 to biped/combat/sword_airslash
+[20Feb2025 06:49:00.422] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 187 to biped/combat/sword_dual_airslash
+[20Feb2025 06:49:00.422] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 188 to biped/combat/uchigatana_airslash
+[20Feb2025 06:49:00.422] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 189 to biped/combat/uchigatana_sheath_airslash
+[20Feb2025 06:49:00.422] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 190 to biped/combat/spear_onehand_airslash
+[20Feb2025 06:49:00.423] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 191 to biped/combat/spear_twohand_airslash
+[20Feb2025 06:49:00.423] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 192 to biped/combat/longsword_airslash
+[20Feb2025 06:49:00.427] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 193 to biped/combat/greatsword_airslash
+[20Feb2025 06:49:00.427] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 194 to biped/combat/fist_airslash
+[20Feb2025 06:49:00.427] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 195 to biped/combat/dagger_airslash
+[20Feb2025 06:49:00.428] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 196 to 187
+[20Feb2025 06:49:00.428] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 197 to biped/combat/axe_airslash
+[20Feb2025 06:49:00.428] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 198 to biped/combat/sword_mount_attack
+[20Feb2025 06:49:00.428] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 199 to biped/combat/spear_mount_attack
+[20Feb2025 06:49:00.429] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 200 to biped/combat/mob_onehand1
+[20Feb2025 06:49:00.429] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 201 to biped/combat/mob_onehand2
+[20Feb2025 06:49:00.429] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 202 to biped/combat/mob_greatsword1
+[20Feb2025 06:49:00.430] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 203 to biped/combat/mob_tachi_special
+[20Feb2025 06:49:00.430] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 204 to biped/combat/mob_spear_onehand
+[20Feb2025 06:49:00.430] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 205 to biped/combat/mob_spear_twohand1
+[20Feb2025 06:49:00.431] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 206 to biped/combat/mob_spear_twohand2
+[20Feb2025 06:49:00.431] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 207 to biped/combat/mob_spear_twohand3
+[20Feb2025 06:49:00.431] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 208 to biped/combat/mob_sword_dual1
+[20Feb2025 06:49:00.431] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 209 to biped/combat/mob_sword_dual2
+[20Feb2025 06:49:00.432] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 210 to biped/combat/mob_sword_dual3
+[20Feb2025 06:49:00.432] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 211 to biped/combat/mob_longsword1
+[20Feb2025 06:49:00.432] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 212 to biped/combat/mob_longsword2
+[20Feb2025 06:49:00.433] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 213 to biped/combat/mob_uchigatana1
+[20Feb2025 06:49:00.435] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 214 to biped/combat/mob_uchigatana2
+[20Feb2025 06:49:00.435] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 215 to biped/combat/mob_uchigatana3
+[20Feb2025 06:49:00.435] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 216 to biped/combat/mob_dagger_onehand1
+[20Feb2025 06:49:00.435] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 217 to biped/combat/mob_dagger_onehand2
+[20Feb2025 06:49:00.436] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 218 to biped/combat/mob_dagger_onehand3
+[20Feb2025 06:49:00.436] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 219 to biped/combat/mob_dagger_twohand1
+[20Feb2025 06:49:00.436] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 220 to biped/combat/mob_dagger_twohand2
+[20Feb2025 06:49:00.437] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 221 to biped/combat/mob_throw
+[20Feb2025 06:49:00.437] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 222 to biped/skill/guard_sword_hit
+[20Feb2025 06:49:00.437] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 223 to biped/skill/guard_sword_hit_active1
+[20Feb2025 06:49:00.437] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 224 to biped/skill/guard_sword_hit_active2
+[20Feb2025 06:49:00.438] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 225 to biped/skill/guard_sword_hit_active3
+[20Feb2025 06:49:00.438] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 226 to biped/skill/guard_longsword_hit_active1
+[20Feb2025 06:49:00.442] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 227 to biped/skill/guard_longsword_hit_active2
+[20Feb2025 06:49:00.442] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 228 to biped/skill/guard_dualsword_hit
+[20Feb2025 06:49:00.442] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 229 to biped/skill/guard_break1
+[20Feb2025 06:49:00.443] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 230 to biped/skill/guard_break2
+[20Feb2025 06:49:00.451] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 231 to biped/skill/guard_longsword_hit
+[20Feb2025 06:49:00.451] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 232 to biped/skill/guard_spear_hit
+[20Feb2025 06:49:00.451] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 233 to biped/skill/guard_greatsword_hit
+[20Feb2025 06:49:00.451] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 234 to biped/skill/guard_uchigatana_hit
+[20Feb2025 06:49:00.452] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 235 to biped/skill/greatsword_slam
+[20Feb2025 06:49:00.453] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 236 to biped/skill/revelation_normal
+[20Feb2025 06:49:00.453] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 237 to biped/skill/revelation_twohand
+[20Feb2025 06:49:00.454] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 238 to biped/combat/hit_short
+[20Feb2025 06:49:00.454] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 239 to biped/combat/hit_long
+[20Feb2025 06:49:00.454] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 240 to biped/combat/hit_on_mount
+[20Feb2025 06:49:00.454] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 241 to biped/living/landing
+[20Feb2025 06:49:00.455] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 242 to biped/combat/knockdown
+[20Feb2025 06:49:00.455] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 243 to biped/living/death
+[20Feb2025 06:49:00.455] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 244 to creeper/hit_short
+[20Feb2025 06:49:00.456] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 245 to creeper/hit_long
+[20Feb2025 06:49:00.456] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 246 to creeper/death
+[20Feb2025 06:49:00.456] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 247 to enderman/hit_short
+[20Feb2025 06:49:00.457] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 248 to enderman/hit_long
+[20Feb2025 06:49:00.457] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 249 to enderman/neutralized
+[20Feb2025 06:49:00.457] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 250 to enderman/convert_rage
+[20Feb2025 06:49:00.457] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 251 to enderman/tp_kick1
+[20Feb2025 06:49:00.458] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 252 to enderman/tp_kick2
+[20Feb2025 06:49:00.458] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 253 to enderman/rush_kick
+[20Feb2025 06:49:00.458] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 254 to enderman/jump_kick
+[20Feb2025 06:49:00.461] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 255 to enderman/knee
+[20Feb2025 06:49:00.461] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 256 to enderman/kick_twice
+[20Feb2025 06:49:00.462] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 257 to enderman/grasp
+[20Feb2025 06:49:00.462] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 258 to enderman/death
+[20Feb2025 06:49:00.462] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 259 to enderman/teleport
+[20Feb2025 06:49:00.463] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 260 to dragon/idle
+[20Feb2025 06:49:00.464] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 261 to dragon/walk
+[20Feb2025 06:49:00.464] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 262 to dragon/fly
+[20Feb2025 06:49:00.464] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 263 to dragon/death
+[20Feb2025 06:49:00.465] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 264 to dragon/ground_to_fly
+[20Feb2025 06:49:00.466] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 265 to dragon/fly_to_ground
+[20Feb2025 06:49:00.467] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 266 to dragon/attack1
+[20Feb2025 06:49:00.471] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 267 to dragon/attack2
+[20Feb2025 06:49:00.471] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 268 to dragon/attack3
+[20Feb2025 06:49:00.471] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 269 to dragon/attack4
+[20Feb2025 06:49:00.472] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 270 to dragon/attack4_recovery
+[20Feb2025 06:49:00.472] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 271 to dragon/fireball
+[20Feb2025 06:49:00.473] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 272 to dragon/airstrike
+[20Feb2025 06:49:00.473] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 273 to dragon/backjump_prepare
+[20Feb2025 06:49:00.473] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 274 to dragon/backjump_move
+[20Feb2025 06:49:00.474] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 275 to dragon/backjump_recovery
+[20Feb2025 06:49:00.474] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 276 to dragon/crystal_link
+[20Feb2025 06:49:00.479] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 277 to dragon/neutralized
+[20Feb2025 06:49:00.479] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 278 to dragon/neutralized_recovery
+[20Feb2025 06:49:00.480] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 279 to spider/attack
+[20Feb2025 06:49:00.480] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 280 to spider/jump_attack
+[20Feb2025 06:49:00.480] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 281 to spider/hit
+[20Feb2025 06:49:00.481] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 282 to spider/neutralized
+[20Feb2025 06:49:00.481] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 283 to spider/death
+[20Feb2025 06:49:00.481] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 284 to iron_golem/attack1
+[20Feb2025 06:49:00.481] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 285 to iron_golem/attack2
+[20Feb2025 06:49:00.482] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 286 to iron_golem/attack3
+[20Feb2025 06:49:00.482] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 287 to iron_golem/attack4
+[20Feb2025 06:49:00.482] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 288 to iron_golem/death
+[20Feb2025 06:49:00.482] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 289 to illager/swing_axe1
+[20Feb2025 06:49:00.483] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 290 to illager/swing_axe2
+[20Feb2025 06:49:00.483] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 291 to illager/swing_axe3
+[20Feb2025 06:49:00.483] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 292 to piglin/death
+[20Feb2025 06:49:00.483] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 293 to hoglin/death
+[20Feb2025 06:49:00.484] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 294 to hoglin/attack
+[20Feb2025 06:49:00.484] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 295 to ravager/death
+[20Feb2025 06:49:00.484] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 296 to ravager/groggy
+[20Feb2025 06:49:00.484] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 297 to ravager/attack1
+[20Feb2025 06:49:00.485] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 298 to ravager/attack2
+[20Feb2025 06:49:00.485] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 299 to ravager/attack3
+[20Feb2025 06:49:00.485] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 300 to vex/hit
+[20Feb2025 06:49:00.485] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 301 to vex/death
+[20Feb2025 06:49:00.486] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 302 to vex/charge
+[20Feb2025 06:49:00.486] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 303 to vex/neutralized
+[20Feb2025 06:49:00.495] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 304 to witch/drink
+[20Feb2025 06:49:00.495] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 305 to wither_skeleton/sword_attack1
+[20Feb2025 06:49:00.495] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 306 to wither_skeleton/sword_attack2
+[20Feb2025 06:49:00.495] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 307 to wither_skeleton/sword_attack3
+[20Feb2025 06:49:00.496] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 308 to wither/rush
+[20Feb2025 06:49:00.497] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 309 to wither/death
+[20Feb2025 06:49:00.497] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 310 to wither/neutralized
+[20Feb2025 06:49:00.497] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 311 to wither/spell_wither_armor
+[20Feb2025 06:49:00.498] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 312 to wither/charging_blocked
+[20Feb2025 06:49:00.498] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 313 to wither/ghost_stand
+[20Feb2025 06:49:00.499] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 314 to wither/swirl
+[20Feb2025 06:49:00.499] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 315 to wither/laser
+[20Feb2025 06:49:00.500] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 316 to wither/backflip
+[20Feb2025 06:49:00.500] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 317 to zombie/attack1
+[20Feb2025 06:49:00.500] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 318 to zombie/attack2
+[20Feb2025 06:49:00.500] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 319 to zombie/attack3
+[20Feb2025 06:49:00.501] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 320 to biped/skill/sweeping_edge
+[20Feb2025 06:49:00.501] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 321 to biped/skill/dancing_edge
+[20Feb2025 06:49:00.501] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 322 to biped/skill/the_guillotine
+[20Feb2025 06:49:00.502] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 323 to biped/skill/heartpiercer
+[20Feb2025 06:49:00.502] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 324 to 146
+[20Feb2025 06:49:00.502] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 325 to biped/skill/grasping_spire_second
+[20Feb2025 06:49:00.503] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 326 to biped/skill/steel_whirlwind
+[20Feb2025 06:49:00.503] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 327 to biped/skill/battojutsu
+[20Feb2025 06:49:00.503] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 328 to biped/skill/battojutsu_dash
+[20Feb2025 06:49:00.504] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 329 to biped/skill/rushing_tempo1
+[20Feb2025 06:49:00.504] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 330 to biped/skill/rushing_tempo2
+[20Feb2025 06:49:00.504] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 331 to biped/skill/rushing_tempo3
+[20Feb2025 06:49:00.505] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 332 to biped/skill/relentless_combo
+[20Feb2025 06:49:00.505] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 333 to biped/skill/eviscerate_first
+[20Feb2025 06:49:00.505] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 334 to biped/skill/eviscerate_second
+[20Feb2025 06:49:00.505] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 335 to biped/skill/blade_rush_combo1
+[20Feb2025 06:49:00.515] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 336 to biped/skill/blade_rush_combo2
+[20Feb2025 06:49:00.515] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 337 to biped/skill/blade_rush_combo3
+[20Feb2025 06:49:00.515] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 338 to biped/interact/blade_rush_hit
+[20Feb2025 06:49:00.517] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 339 to biped/skill/blade_rush_execute
+[20Feb2025 06:49:00.517] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 340 to biped/skill/blade_rush_failed
+[20Feb2025 06:49:00.518] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 341 to biped/skill/blade_rush_try
+[20Feb2025 06:49:00.518] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 342 to biped/skill/wrathful_lighting
+[20Feb2025 06:49:00.518] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 343 to biped/skill/tsunami
+[20Feb2025 06:49:00.520] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 344 to biped/skill/tsunami_reinforced
+[20Feb2025 06:49:00.520] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 345 to biped/skill/everlasting_allegiance_call
+[20Feb2025 06:49:00.520] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 346 to biped/skill/everlasting_allegiance_catch
+[20Feb2025 06:49:00.521] [modloading-worker-0/INFO] [epicfight/]: Assigned animation id 347 to biped/skill/sharp_stab
+[20Feb2025 06:49:00.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[20Feb2025 06:49:00.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[20Feb2025 06:49:00.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: AHEAD Current: 1.19.2-1.5.9 Target: null
+[20Feb2025 06:49:00.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_andtaverns_mr] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/datapack/dungeons-and-taverns/version/2.0.2/updates/tpehi7ww/forge_updates.json
+[20Feb2025 06:49:00.944] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.ConnectException: null
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.19.2-43.4.2.jar%23280!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.19.2-43.4.2.jar%23280!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23280!/:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1083) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+Caused by: java.nio.channels.UnresolvedAddressException
+	at sun.nio.ch.Net.checkAddress(Net.java:149) ~[?:?]
+	at sun.nio.ch.Net.checkAddress(Net.java:157) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:816) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:839) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+[20Feb2025 06:49:00.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Feb2025 06:49:01.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.20
+[20Feb2025 06:49:01.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[20Feb2025 06:49:01.535] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[20Feb2025 06:49:01.549] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step LOAD_COMPLETE
+[20Feb2025 06:49:01.592] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 4 for type OVERWORLD
+[20Feb2025 06:49:02.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.19.2-1.0.17 Target: null
+[20Feb2025 06:49:02.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[20Feb2025 06:49:02.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.7 Target: null
+[20Feb2025 06:49:02.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[20Feb2025 06:49:02.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
+[20Feb2025 06:49:02.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[20Feb2025 06:49:02.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[20Feb2025 06:49:02.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[20Feb2025 06:49:02.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
+[20Feb2025 06:49:02.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[20Feb2025 06:49:02.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[20Feb2025 06:49:02.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
+[20Feb2025 06:49:02.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: AHEAD Current: 1.10.7-backport.1 Target: null
+[20Feb2025 06:49:02.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[20Feb2025 06:49:02.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[20Feb2025 06:49:02.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[20Feb2025 06:49:02.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
+[20Feb2025 06:49:06.497] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Feb2025 06:49:09.862] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ChillMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23279!/assets/.mcassetsroot' uses unexpected schema
+[20Feb2025 06:49:09.863] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ChillMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23279!/data/.mcassetsroot' uses unexpected schema
+[20Feb2025 06:49:10.365] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 111 ms
+[20Feb2025 06:49:20.121] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[20Feb2025 06:49:21.746] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file nova_structures:chests/water_supply from nova_structures:loot_tables/chests/water_supply.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 17 column 10 path $.pools[0].entries[1]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:512) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:549) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 17 column 10 path $.pools[0].entries[1]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:475) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:675) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:676) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	... 11 more
+[20Feb2025 06:49:23.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[20Feb2025 06:49:23.126] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
+[20Feb2025 06:49:23.154] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:274) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:197) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:261) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:288) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:284) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20Feb2025 06:49:23.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe hauntedharvest:botany_corn
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20Feb2025 06:49:23.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
+[20Feb2025 06:49:23.292] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[20Feb2025 06:49:23.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[20Feb2025 06:49:23.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
+[20Feb2025 06:49:23.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miningmaster:forging/kinetic_tongue_whip as it's serializer returned null
+[20Feb2025 06:49:23.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
+[20Feb2025 06:49:23.481] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
+[20Feb2025 06:49:23.491] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
+[20Feb2025 06:49:23.845] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table hauntedharvest:blocks/green_jack_o_lantern
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'hauntedharvest:green_jack_o_lantern'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20Feb2025 06:49:24.419] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table hauntedharvest:blocks/ender_jack_o_lantern
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'hauntedharvest:ender_jack_o_lantern'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20Feb2025 06:49:24.691] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[20Feb2025 06:49:24.747] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:simmer_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:simmer_disc
+
+[20Feb2025 06:49:24.768] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:brewin_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:brewin_disc
+
+[20Feb2025 06:49:24.782] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:golden_chef_hat_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:golden_chef_hat_helmet
+
+[20Feb2025 06:49:24.811] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template: Unknown item id 'majruszsdifficulty:enderium_upgrade_smithing_template'
+[20Feb2025 06:49:24.863] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:trash_bin_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:trash_bin
+
+[20Feb2025 06:49:24.864] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:cookinadvancement: Non [a-z0-9/._-] character in path of location: decoration_delight:cookin_disc
+
+[20Feb2025 06:49:24.872] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:glazin_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:glazed_disc
+
+[20Feb2025 06:49:24.884] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:chef_hat_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:chef_hat_helmet
+
+[20Feb2025 06:49:24.892] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:wash_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:wash_disc
+
+[20Feb2025 06:49:24.894] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement decoration_delight:checkmate_advancement: Non [a-z0-9/._-] character in path of location: decoration_delight:quartz_and_blackstone_tiles
+
+[20Feb2025 06:49:24.934] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 1951 recipe advancements
+[20Feb2025 06:49:24.983] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 697 advancements
+[20Feb2025 06:49:25.046] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Structure Repaletter Manager has loaded 0 repaletters
+[20Feb2025 06:49:25.061] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Modded Biome Slice Manager has loaded 2 slices
+[20Feb2025 06:49:25.065] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
+[20Feb2025 06:49:25.079] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$3.decode(RecordCodecBuilder.java:248) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$1(KeyDispatchCodec.java:67) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$2(KeyDispatchCodec.java:58) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$0(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20Feb2025 06:49:25.082] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id hauntedharvest:rotten_apple - error: Unknown type 'hauntedharvest:flag'
+[20Feb2025 06:49:25.113] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[20Feb2025 06:49:25.131] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[20Feb2025 06:49:25.132] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[20Feb2025 06:49:25.132] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[20Feb2025 06:49:25.132] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[20Feb2025 06:49:25.136] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/make_a_sign_glow with 1 patches
+[20Feb2025 06:49:25.137] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[20Feb2025 06:49:25.138] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[20Feb2025 06:49:25.139] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[20Feb2025 06:49:25.139] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[20Feb2025 06:49:25.139] [main/INFO] [quark/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[20Feb2025 06:49:25.140] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[20Feb2025 06:49:25.142] [main/ERROR] [bettervillage/]: More Villagers compatibility is not enabled for Better Village and More Villagers is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and More Villagers.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[20Feb2025 06:49:27.884] [main/INFO] [supplementaries/]: Finished additional setup in 115 ms
+[20Feb2025 06:49:28.176] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 9 milliseconds
+[20Feb2025 06:49:28.179] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 1 milliseconds
+[20Feb2025 06:49:28.180] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[20Feb2025 06:49:28.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[20Feb2025 06:49:28.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Feb2025 06:49:28.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Feb2025 06:49:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Feb2025 06:49:28.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Feb2025 06:49:28.530] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Feb2025 06:49:28.672] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Feb2025 06:49:28.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Feb2025 06:49:28.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Feb2025 06:49:28.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Feb2025 06:49:28.713] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[20Feb2025 06:49:28.715] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[20Feb2025 06:49:28.716] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[20Feb2025 06:49:28.774] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[20Feb2025 06:49:28.776] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[20Feb2025 06:49:28.778] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[20Feb2025 06:49:30.033] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20Feb2025 06:49:30.043] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20Feb2025 06:49:30.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Feb2025 06:50:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Feb2025 06:50:14.266] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.271] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.288] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.293] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.293] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.312] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:14.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:15.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:15.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 06:50:16.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[20Feb2025 06:50:16.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[20Feb2025 06:50:17.585] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15355 ms
+[20Feb2025 06:50:17.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (48.891s)! For help, type "help"
+[20Feb2025 06:50:17.784] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Feb2025 06:50:17.795] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[20Feb2025 06:52:24.954] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Feb2025 06:52:25.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35168e79
+[20Feb2025 06:52:25.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKA_Milen[/172.25.192.229:61437] logged in with entity id 143 at (-8.300000011920929, 135.0, 87.73867737158106)
+[20Feb2025 06:52:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen joined the game
+[20Feb2025 06:52:28.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[20Feb2025 06:53:50.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=134, z=74} BlockPos{x=-5, y=134, z=73}
+[20Feb2025 06:53:55.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=135, z=82} BlockPos{x=1, y=134, z=82}

@@ -1355,3 +1355,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [20Feb2025 07:19:36.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9436, l='ServerLevel[world]', x=289.50, y=77.00, z=1603.50]
 [20Feb2025 07:19:58.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was burnt to a crisp whilst fighting Pyromancer
 [20Feb2025 07:20:14.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9939, l='ServerLevel[world]', x=264.50, y=73.00, z=1615.50]
+[20Feb2025 07:20:49.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10027, l='ServerLevel[world]', x=265.50, y=73.00, z=1653.50]
+[20Feb2025 07:22:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has completed the challenge [Premium!]
+[20Feb2025 07:23:34.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10718, l='ServerLevel[world]', x=264.50, y=73.00, z=1654.50]
+[20Feb2025 07:23:42.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10746, l='ServerLevel[world]', x=289.50, y=77.00, z=1601.50]
+[20Feb2025 07:24:35.318] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[20Feb2025 07:26:11.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [How long's this been here?]
+[20Feb2025 07:26:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Magery]
+[20Feb2025 07:26:43.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[20Feb2025 07:26:43.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen moved too quickly! -0.9491067492671732,-3.0,9.711890861521624
+[20Feb2025 07:26:43.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[20Feb2025 07:26:43.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[20Feb2025 07:26:57.081] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 6 more
+[20Feb2025 07:27:08.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9555ms or 191 ticks behind

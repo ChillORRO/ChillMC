@@ -5,6 +5,15 @@
     },
     "done": true
   },
+  "many_more_ores_and_crafts:oresachievement": {
+    "criteria": {
+      "oresachievement_1": "2025-02-21 17:57:51 +0000",
+      "oresachievement_7": "2025-02-21 17:57:45 +0000",
+      "oresachievement_8": "2025-02-21 17:57:06 +0000",
+      "oresachievement_6": "2025-02-21 17:57:42 +0000"
+    },
+    "done": false
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -811,6 +820,13 @@
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-02-21 17:55:52 +0000",
+      "violet": "2025-02-21 17:57:30 +0000"
+    },
+    "done": false
   },
   "beachparty:beachpartypalm_slab": {
     "criteria": {

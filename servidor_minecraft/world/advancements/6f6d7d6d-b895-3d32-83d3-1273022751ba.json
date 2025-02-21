@@ -818,6 +818,18 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-02-21 17:55:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-21 18:02:35 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -947,6 +959,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-21 18:00:12 +0000"
     },
     "done": true
   },
@@ -1205,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-21 18:05:40 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_floorboard": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -1316,6 +1340,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-21 17:58:44 +0000"
     },
     "done": true
   },

@@ -2872,3 +2872,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [21Feb2025 08:08:08.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7794, l='ServerLevel[world]', x=132.50, y=72.00, z=-130.50]
 [21Feb2025 08:08:20.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7993, l='ServerLevel[world]', x=161.50, y=70.00, z=-127.50]
 [21Feb2025 08:08:28.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> no te pierdaaaaaaaaaaaas
+[21Feb2025 08:09:01.249] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Feb2025 08:10:56.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/8574, l='ServerLevel[world]', x=148.50, y=72.00, z=-123.50]
+[21Feb2025 08:11:07.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[21Feb2025 08:11:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[21Feb2025 08:11:16.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Monster Hunter]
+[21Feb2025 08:12:16.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/8841, l='ServerLevel[world]', x=157.50, y=73.00, z=-128.50]
+[21Feb2025 08:12:50.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/8958, l='ServerLevel[world]', x=171.50, y=73.00, z=-107.50]
+[21Feb2025 08:13:19.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9039, l='ServerLevel[world]', x=170.50, y=73.00, z=-109.50]
+[21Feb2025 08:13:31.962] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@448fbe3a
+[21Feb2025 08:13:32.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKA_Milen[/172.25.192.229:60705] logged in with entity id 9058 at (256.2781142547042, 68.0, -178.54703451412655)
+[21Feb2025 08:13:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen joined the game
+[21Feb2025 08:13:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> te extrañe
+[21Feb2025 08:14:24.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> deja de tirarme tu basura
+[21Feb2025 08:14:34.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> te di comida
+[21Feb2025 08:14:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> como 3 veces tire un pico de madera jasjasj
+[21Feb2025 08:14:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> y una flor
+[21Feb2025 08:14:42.364] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9198, l='ServerLevel[world]', x=314.50, y=74.00, z=-230.50]
+[21Feb2025 08:14:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> gracias miamor
+[21Feb2025 08:14:47.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> mal agradecido
+[21Feb2025 08:14:52.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> devolveme todo ahora
+[21Feb2025 08:14:55.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9221, l='ServerLevel[world]', x=133.50, y=72.00, z=-131.50]
+[21Feb2025 08:15:01.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9232, l='ServerLevel[world]', x=160.50, y=70.00, z=-128.50]
+[21Feb2025 08:15:10.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> ni empedo
+[21Feb2025 08:15:14.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9267, l='ServerLevel[world]', x=372.50, y=73.00, z=-217.50]
+[21Feb2025 08:15:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> che si conseguimos hilo tenemos mochi
+[21Feb2025 08:15:24.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9305, l='ServerLevel[world]', x=371.50, y=73.00, z=-219.50]
+[21Feb2025 08:15:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> okas
+[21Feb2025 08:15:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> mira
+[21Feb2025 08:15:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> seguime
+[21Feb2025 08:16:06.515] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9525, l='ServerLevel[world]', x=169.50, y=73.00, z=-108.50]
+[21Feb2025 08:16:26.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9641, l='ServerLevel[world]', x=147.50, y=72.00, z=-122.50]
+[21Feb2025 08:17:02.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9749, l='ServerLevel[world]', x=170.50, y=73.00, z=-107.50]
+[21Feb2025 08:17:24.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> yo podia
+[21Feb2025 08:17:36.765] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9863, l='ServerLevel[world]', x=169.50, y=73.00, z=-107.50]
+[21Feb2025 08:17:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> pero si vos le mataste
+[21Feb2025 08:17:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> a
+[21Feb2025 08:17:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> perdon

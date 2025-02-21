@@ -199,6 +199,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-21 08:09:00 +0000",
       "cooked_beef": "2025-02-21 07:58:05 +0000"
     },
     "done": false
@@ -323,19 +324,25 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 07:45:18 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
     "done": true
   },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-21 07:45:18 +0000"
+    },
+    "done": false
+  },
   "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartycabinet": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
@@ -346,12 +353,6 @@
       "log_spam_fixer": "2025-02-21 07:45:18 +0000"
     },
     "done": false
-  },
-  "beachparty:beachpartycabinet": {
-    "criteria": {
-      "has_the_recipe": "2025-02-21 07:45:17 +0000"
-    },
-    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
@@ -370,6 +371,12 @@
       "get_stone": "2025-02-21 07:48:50 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-02-21 08:09:14 +0000"
+    },
+    "done": false
   },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
@@ -505,6 +512,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-21 08:15:03 +0000",
       "minecraft:spider": "2025-02-21 08:01:07 +0000",
       "minecraft:zombie": "2025-02-21 07:59:59 +0000",
       "minecraft:zombie_villager": "2025-02-21 08:03:22 +0000"
@@ -856,6 +864,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-02-21 08:09:14 +0000"
     },
     "done": true
   },

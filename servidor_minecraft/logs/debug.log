@@ -9133,3 +9133,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [21Feb2025 07:48:13.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> ahi ta
 [21Feb2025 07:48:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> movete
 [21Feb2025 07:48:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Alex's Mobs]
+[21Feb2025 07:48:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> que bioma de mierda
+[21Feb2025 07:48:43.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 07:48:43.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 07:48:43.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Alex's Mobs]
+[21Feb2025 07:48:50.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Stone Age]
+[21Feb2025 07:49:08.801] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
+[21Feb2025 07:49:09.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> la verdad que si
+[21Feb2025 07:49:27.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Getting an Upgrade]
+[21Feb2025 07:50:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> no puedo hacer palos
+[21Feb2025 07:50:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> hacelo manualmente
+[21Feb2025 07:50:30.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> hay recetas iguales y se sobreponen
+[21Feb2025 07:50:34.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> por los mods que hay
+[21Feb2025 07:51:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> ca
+[21Feb2025 07:51:48.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> aca
+[21Feb2025 07:52:12.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> toca la r
+[21Feb2025 07:52:24.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> ves?
+[21Feb2025 07:52:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> que hace
+[21Feb2025 07:52:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> mirame
+[21Feb2025 07:52:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Stone Age]
+[21Feb2025 07:52:47.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> desaparece?
+[21Feb2025 07:52:59.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> que cosa?
+[21Feb2025 07:53:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> no tenes auriculares?
+[21Feb2025 07:53:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Getting an Upgrade]
+[21Feb2025 07:53:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> tengo los inalambricos
+[21Feb2025 07:53:33.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> porque no entiendo cosas aca
+[21Feb2025 07:53:43.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 07:53:43.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 07:53:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> como que?
+[21Feb2025 07:54:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> wpp
+[21Feb2025 07:54:47.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Bloodthirsty]
+[21Feb2025 07:55:14.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/3064, l='ServerLevel[world]', x=114.50, y=71.00, z=-140.50]
+[21Feb2025 07:55:54.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/3211, l='ServerLevel[world]', x=159.50, y=70.00, z=-127.50]
+[21Feb2025 07:55:59.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> toca f5
+[21Feb2025 07:56:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> eso es?
+[21Feb2025 07:56:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> no
+[21Feb2025 07:56:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> banca no veo nada
+[21Feb2025 07:56:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> me encerre
+[21Feb2025 07:56:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Let's Get To Work]
+[21Feb2025 07:57:01.165] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/3401, l='ServerLevel[world]', x=116.50, y=71.00, z=-138.50]
+[21Feb2025 07:58:43.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 07:58:43.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

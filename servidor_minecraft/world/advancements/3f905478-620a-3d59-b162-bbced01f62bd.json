@@ -56,6 +56,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-21 19:34:49 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -188,6 +194,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-21 19:11:58 +0000"
+    },
+    "done": false
+  },
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -220,8 +232,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-21 19:19:00 +0000",
       "cooked_mutton": "2025-02-21 08:14:25 +0000",
       "cooked_beef": "2025-02-21 07:59:50 +0000",
+      "apple": "2025-02-21 19:29:44 +0000",
       "bread": "2025-02-21 08:19:37 +0000",
       "golden_carrot": "2025-02-21 17:40:05 +0000"
     },
@@ -403,7 +417,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-02-21 08:09:15 +0000"
+      "coniferous_forest": "2025-02-21 08:09:15 +0000",
+      "seasonal_orchard": "2025-02-21 19:26:10 +0000",
+      "fir_clearing": "2025-02-21 19:30:28 +0000"
     },
     "done": false
   },
@@ -428,6 +444,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-21 08:22:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-02-21 19:32:13 +0000"
     },
     "done": true
   },
@@ -549,6 +571,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-21 08:11:16 +0000",
       "minecraft:skeleton": "2025-02-21 08:16:23 +0000",
+      "minecraft:spider": "2025-02-21 19:27:42 +0000",
       "minecraft:zombie": "2025-02-21 08:18:19 +0000",
       "minecraft:zombie_villager": "2025-02-21 08:18:30 +0000"
     },
@@ -749,6 +772,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2025-02-21 19:08:32 +0000"
+    },
+    "done": false
+  },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -837,6 +866,12 @@
   "beachparty:beachpartypalm_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-21 19:11:58 +0000"
     },
     "done": true
   },

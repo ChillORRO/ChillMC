@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-02-21 07:59:50 +0000"
+    },
+    "done": false
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-21 08:00:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-02-21 08:00:57 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_1": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -590,6 +608,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-21 08:07:50 +0000"
     },
     "done": true
   },
@@ -734,6 +758,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-02-21 08:07:42 +0000"
     },
     "done": true
   },
@@ -973,7 +1003,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_beach": "2025-02-21 07:45:34 +0000"
+      "minecraft:river": "2025-02-21 08:06:54 +0000",
+      "minecraft:snowy_beach": "2025-02-21 07:45:34 +0000",
+      "minecraft:plains": "2025-02-21 08:06:43 +0000"
     },
     "done": false
   },

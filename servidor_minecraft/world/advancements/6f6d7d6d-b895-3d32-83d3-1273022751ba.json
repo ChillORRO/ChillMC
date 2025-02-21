@@ -503,6 +503,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-02-21 08:01:07 +0000",
+      "minecraft:zombie": "2025-02-21 07:59:59 +0000",
+      "minecraft:zombie_villager": "2025-02-21 08:03:22 +0000"
+    },
+    "done": false
+  },
   "beachparty:beachpartypalm_door": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -608,6 +616,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-21 08:07:43 +0000"
     },
     "done": true
   },
@@ -965,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-21 07:59:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -1010,6 +1030,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-02-21 07:54:35 +0000",
+      "minecraft:frozen_ocean": "2025-02-21 08:00:52 +0000",
       "minecraft:snowy_beach": "2025-02-21 07:50:57 +0000",
       "minecraft:plains": "2025-02-21 07:54:34 +0000"
     },

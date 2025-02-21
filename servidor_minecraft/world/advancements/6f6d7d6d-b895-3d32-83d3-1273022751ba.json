@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-02-21 18:13:41 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -320,6 +326,12 @@
     },
     "done": false
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-21 18:12:15 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -407,6 +419,12 @@
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-21 18:14:05 +0000"
     },
     "done": true
   },
@@ -547,6 +565,7 @@
       "minecraft:skeleton": "2025-02-21 08:15:03 +0000",
       "minecraft:vindicator": "2025-02-21 17:42:22 +0000",
       "minecraft:spider": "2025-02-21 08:01:07 +0000",
+      "minecraft:slime": "2025-02-21 18:13:28 +0000",
       "minecraft:zombie": "2025-02-21 07:59:59 +0000",
       "minecraft:drowned": "2025-02-21 08:19:46 +0000",
       "minecraft:zombie_villager": "2025-02-21 08:03:22 +0000"
@@ -1001,6 +1020,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-21 07:46:22 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-21 18:10:36 +0000"
     },
     "done": true
   },

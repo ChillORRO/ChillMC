@@ -828,6 +828,12 @@
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-21 18:11:19 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"

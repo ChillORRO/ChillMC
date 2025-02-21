@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-21 08:37:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -200,7 +206,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-21 08:14:25 +0000",
-      "cooked_beef": "2025-02-21 07:59:50 +0000"
+      "cooked_beef": "2025-02-21 07:59:50 +0000",
+      "bread": "2025-02-21 08:19:37 +0000"
     },
     "done": false
   },
@@ -354,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-21 08:37:58 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -387,6 +400,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-02-21 07:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-21 08:22:50 +0000"
     },
     "done": true
   },
@@ -525,6 +544,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-21 08:37:48 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -578,6 +603,19 @@
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-02-21 08:26:45 +0000",
+      "blastfurnace": "2025-02-21 08:27:06 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-02-21 08:37:48 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
@@ -891,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-21 08:23:25 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -918,6 +962,12 @@
   "beachparty:beach_chair": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-21 08:36:44 +0000"
     },
     "done": true
   },
@@ -1232,6 +1282,18 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-21 08:23:25 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-02-21 08:26:45 +0000"
     },
     "done": true
   },

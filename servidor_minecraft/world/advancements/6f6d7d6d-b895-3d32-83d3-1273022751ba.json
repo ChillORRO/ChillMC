@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-21 08:28:43 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -200,7 +206,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-21 08:09:00 +0000",
-      "cooked_beef": "2025-02-21 07:58:05 +0000"
+      "cooked_beef": "2025-02-21 07:58:05 +0000",
+      "apple": "2025-02-21 08:26:38 +0000",
+      "bread": "2025-02-21 08:21:53 +0000"
     },
     "done": false
   },
@@ -354,6 +362,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-21 08:36:54 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -393,6 +407,12 @@
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-21 08:22:54 +0000"
     },
     "done": true
   },
@@ -515,6 +535,7 @@
       "minecraft:skeleton": "2025-02-21 08:15:03 +0000",
       "minecraft:spider": "2025-02-21 08:01:07 +0000",
       "minecraft:zombie": "2025-02-21 07:59:59 +0000",
+      "minecraft:drowned": "2025-02-21 08:19:46 +0000",
       "minecraft:zombie_villager": "2025-02-21 08:03:22 +0000"
     },
     "done": false
@@ -522,6 +543,12 @@
   "beachparty:beachpartypalm_door": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-21 08:28:43 +0000"
     },
     "done": true
   },
@@ -575,7 +602,18 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-02-21 07:56:59 +0000"
+      "fletchingtable": "2025-02-21 08:28:28 +0000",
+      "smoker": "2025-02-21 07:56:59 +0000",
+      "smithingtable": "2025-02-21 08:24:12 +0000",
+      "blastfurnace": "2025-02-21 08:24:01 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-02-21 08:28:53 +0000",
+      "fletcher": "2025-02-21 08:28:43 +0000",
+      "armorer": "2025-02-21 08:36:49 +0000"
     },
     "done": false
   },
@@ -644,6 +682,12 @@
       "has_item": "2025-02-21 07:46:06 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-21 08:38:43 +0000"
+    },
+    "done": false
   },
   "decoration_delight:the_search_begins_advancement": {
     "criteria": {
@@ -1227,6 +1271,12 @@
   "beachparty:palm_planks": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-02-21 08:20:39 +0000"
     },
     "done": true
   },

@@ -2909,3 +2909,114 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [21Feb2025 08:17:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> pero si vos le mataste
 [21Feb2025 08:17:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> a
 [21Feb2025 08:17:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> perdon
+[21Feb2025 08:19:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> vamo
+[21Feb2025 08:19:58.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10392, l='ServerLevel[world]', x=131.50, y=72.00, z=-132.50]
+[21Feb2025 08:20:18.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=133, y=73, z=-469} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[21Feb2025 08:20:18.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=133, y=73, z=-469}
+[21Feb2025 08:20:31.141] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[21Feb2025 08:20:31.363] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[21Feb2025 08:20:31.364] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[21Feb2025 08:20:31.364] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[21Feb2025 08:20:31.365] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[21Feb2025 08:20:52.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> miraaaaa
+[21Feb2025 08:20:54.260] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[21Feb2025 08:20:54.262] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[21Feb2025 08:20:54.262] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Feb2025 08:20:54.263] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[21Feb2025 08:20:54.277] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[21Feb2025 08:20:54.278] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[21Feb2025 08:20:54.279] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[21Feb2025 08:20:54.279] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[21Feb2025 08:20:54.280] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[21Feb2025 08:20:54.281] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[21Feb2025 08:20:54.289] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[21Feb2025 08:20:54.290] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.291] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.291] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.292] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.293] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.293] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.294] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Feb2025 08:20:54.294] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[21Feb2025 08:20:54.296] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21Feb2025 08:20:54.296] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[21Feb2025 08:20:54.297] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[21Feb2025 08:20:54.297] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[21Feb2025 08:20:54.298] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[21Feb2025 08:20:54.299] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Feb2025 08:20:54.300] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Feb2025 08:20:54.306] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Feb2025 08:20:54.307] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Feb2025 08:20:54.307] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[21Feb2025 08:20:54.308] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[21Feb2025 08:21:04.136] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:04.313] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:04.313] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:04.314] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[21Feb2025 08:21:04.314] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[21Feb2025 08:21:04.314] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[21Feb2025 08:21:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> es hermoso
+[21Feb2025 08:21:10.983] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[21Feb2025 08:21:10.984] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[21Feb2025 08:21:10.985] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[21Feb2025 08:21:10.985] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[21Feb2025 08:21:10.986] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[21Feb2025 08:21:10.986] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[21Feb2025 08:21:10.987] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[21Feb2025 08:21:10.988] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.988] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.989] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.990] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.991] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.992] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Feb2025 08:21:10.992] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[21Feb2025 08:21:10.992] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[21Feb2025 08:21:10.993] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[21Feb2025 08:21:11.001] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21Feb2025 08:21:11.002] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[21Feb2025 08:21:11.002] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[21Feb2025 08:21:18.661] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:21:18.662] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:21:18.662] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:21:18.662] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:22:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> dormi
+[21Feb2025 08:22:50.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Sweet Dreams]
+[21Feb2025 08:22:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Sweet Dreams]
+[21Feb2025 08:23:14.568] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:23:14.577] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Feb2025 08:23:25.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Acquire Hardware]
+[21Feb2025 08:23:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Isn't It Iron Pick]
+[21Feb2025 08:23:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> queres conseguir las cosas tradeando
+[21Feb2025 08:23:39.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> o buscando y minando
+[21Feb2025 08:23:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> como te sea comodo
+[21Feb2025 08:23:55.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> veni
+[21Feb2025 08:24:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> acabo de encontrar la casita igual a donde tuvimos nuestra ultima familia
+[21Feb2025 08:24:12.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> esta
+[21Feb2025 08:24:17.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> sisi
+[21Feb2025 08:24:21.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> se me hizo familiar
+[21Feb2025 08:24:54.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=71, z=-466} BlockPos{x=145, y=69, z=-467}
+[21Feb2025 08:24:54.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=71, z=-466} BlockPos{x=145, y=69, z=-467}
+[21Feb2025 08:24:55.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=70, z=-465} BlockPos{x=138, y=69, z=-467}
+[21Feb2025 08:24:55.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=70, z=-465} BlockPos{x=138, y=69, z=-467}
+[21Feb2025 08:24:55.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=70, z=-465} BlockPos{x=138, y=69, z=-467}
+[21Feb2025 08:24:55.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=70, z=-465} BlockPos{x=138, y=69, z=-467}
+[21Feb2025 08:25:11.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> que vas a hacer
+[21Feb2025 08:25:53.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> falta el flechero
+[21Feb2025 08:26:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Let's Get To Work]
+[21Feb2025 08:26:49.014] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Feb2025 08:28:17.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> vamio a dormi
+[21Feb2025 08:28:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [What a Deal!]
+[21Feb2025 08:28:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [First Trade]
+[21Feb2025 08:34:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> ya ta
+[21Feb2025 08:34:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> se mueve mejor sipi
+[21Feb2025 08:34:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> bien
+[21Feb2025 08:34:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> ahora agarra un hacha y tala arboles
+[21Feb2025 08:36:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Suit Up]
+[21Feb2025 08:37:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [What a Deal!]
+[21Feb2025 08:37:48.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [First Trade]
+[21Feb2025 08:37:58.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Suit Up]
+[21Feb2025 08:38:23.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> gracias<3
+[21Feb2025 08:38:43.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> ahora?
+[21Feb2025 08:38:48.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> sigo talando?
+[21Feb2025 08:38:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> sip
+[21Feb2025 08:38:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> hay que sacar muchas esmeraldas

@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:41:16 +0000"
+    },
+    "done": true
+  },
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
@@ -417,6 +423,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-21 19:35:49 +0000",
       "coniferous_forest": "2025-02-21 08:09:15 +0000",
       "seasonal_orchard": "2025-02-21 19:26:10 +0000",
       "fir_clearing": "2025-02-21 19:30:28 +0000"
@@ -769,6 +776,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:41:16 +0000"
     },
     "done": true
   },
@@ -1145,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-21 19:41:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-02-21 08:40:30 +0000"
@@ -1258,6 +1277,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-02-21 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:41:16 +0000"
     },
     "done": true
   },

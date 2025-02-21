@@ -7879,3 +7879,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [21Feb2025 19:38:35.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [21Feb2025 19:38:35.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [21Feb2025 19:38:35.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[21Feb2025 19:38:41.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> veni
+[21Feb2025 19:38:57.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Into Fire]
+[21Feb2025 19:39:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> baja
+[21Feb2025 19:39:14.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has reached the goal [Quaint Scribe]
+[21Feb2025 19:40:43.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 19:40:43.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 19:41:14.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Into Fire]
+[21Feb2025 19:41:16.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has reached the goal [Quaint Scribe]
+[21Feb2025 19:41:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lil_Orne: Teleported Lil_Orne to AKA_Milen]
+[21Feb2025 19:41:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lil_Orne: Teleported Lil_Orne to AKA_Milen]
+[21Feb2025 19:42:34.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> le despieerto
+[21Feb2025 19:42:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> cuando rompa eso
+[21Feb2025 19:42:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> preparate
+[21Feb2025 19:42:44.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> alejate
+[21Feb2025 19:42:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> subi
+[21Feb2025 19:43:31.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Ancient Knight
+[21Feb2025 19:43:34.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lil_Orne: Teleported Lil_Orne to AKA_Milen]
+[21Feb2025 19:43:39.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> no amor
+[21Feb2025 19:43:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> lpm
+[21Feb2025 19:43:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> es mi internet
+[21Feb2025 19:43:52.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> se me re traba
+[21Feb2025 19:43:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 506.500000, 88.500000, -826.500000]
+[21Feb2025 19:44:05.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lil_Orne: Teleported Lil_Orne to AKA_Milen]
+[21Feb2025 19:44:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> tpero porque te teletrasportas
+[21Feb2025 19:44:20.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> desaparecio
+[21Feb2025 19:44:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> diosmo
+[21Feb2025 19:44:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lil_Orne> perdon
+[21Feb2025 19:44:52.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> ese no daba su espada
+[21Feb2025 19:44:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AKA_Milen> que esta rota
+[21Feb2025 19:45:43.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 19:45:43.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 19:45:52.875] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

@@ -20,12 +20,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -351,6 +345,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:39:14 +0000"
+    },
+    "done": true
+  },
   "beachparty:tiki_chair": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -522,12 +522,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "beachparty:palm_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -632,12 +626,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-21 08:28:43 +0000"
@@ -698,7 +686,8 @@
       "brewingstand": "2025-02-21 17:40:01 +0000",
       "smoker": "2025-02-21 07:56:59 +0000",
       "smithingtable": "2025-02-21 08:24:12 +0000",
-      "blastfurnace": "2025-02-21 08:24:01 +0000"
+      "blastfurnace": "2025-02-21 08:24:01 +0000",
+      "lectern": "2025-02-21 19:41:21 +0000"
     },
     "done": false
   },
@@ -728,12 +717,6 @@
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -783,12 +766,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "decoration_delight:the_search_begins_advancement": {
     "criteria": {
       "the_search_begins_advancement": "2025-02-21 07:45:17 +0000"
@@ -834,6 +811,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:39:14 +0000"
     },
     "done": true
   },
@@ -896,12 +879,6 @@
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
   },
   "vinery:grass_slab": {
     "criteria": {
@@ -1204,12 +1181,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-02-21 17:38:13 +0000"
@@ -1234,17 +1205,17 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-21 19:38:57 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
   },
   "beachparty:beachpartypalm_trapdoor": {
     "criteria": {
@@ -1333,12 +1304,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "beachparty:beachpartypalm_button": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -1357,6 +1322,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-21 19:39:14 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
@@ -1368,12 +1339,6 @@
       "shot_arrow": "2025-02-21 18:05:40 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
   },
   "beachparty:palm_floorboard": {
     "criteria": {
@@ -1393,23 +1358,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
-  },
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-02-21 07:45:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-21 19:35:42 +0000"
-    },
-    "done": false
   },
   "vinery:cherry_button": {
     "criteria": {

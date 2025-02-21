@@ -621,7 +621,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2025-02-21 08:37:48 +0000"
+      "fletcher": "2025-02-21 08:37:48 +0000",
+      "weaponsmith": "2025-02-21 17:50:27 +0000"
     },
     "done": false
   },

@@ -1448,3 +1448,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [22Feb2025 16:27:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen fell from a high place
 [22Feb2025 16:27:06.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
 [22Feb2025 16:27:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -307.500000, 69.500000, -429.500000]
+[22Feb2025 16:27:40.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[22Feb2025 16:28:18.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was killed by Apothecarist using magic
+[22Feb2025 16:28:27.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -367.500000, 72.500000, -393.500000]
+[22Feb2025 16:30:37.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Spooky Scary Skeleton]
+[22Feb2025 16:30:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -227.500000, 73.500000, -1604.500000]
+[22Feb2025 16:30:59.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 150.500000, 71.500000, -469.500000]
+[22Feb2025 16:31:18.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[22Feb2025 16:31:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[22Feb2025 16:31:35.695] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.4.2-universal.jar%23284!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23279!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 6 more

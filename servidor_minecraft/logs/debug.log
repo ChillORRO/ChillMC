@@ -7141,3 +7141,103 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [22Feb2025 15:54:19.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Feb2025 15:55:12.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [22Feb2025 15:56:46.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[22Feb2025 15:57:53.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:53.622] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:53.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:54.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:54.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:54.565] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:54.806] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:55.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:55.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:55.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:55.808] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:56.059] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:56.309] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:57:56.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:20.917] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:21.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:21.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:21.673] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:21.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:22.179] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:22.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:22.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:22.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:23.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:23.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:23.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:31.163] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:31.406] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:31.659] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:31.904] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:32.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:32.407] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:32.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:32.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:33.157] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:33.412] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:58:33.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 15:59:23.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 15:59:23.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:00:12.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/10104, l='ServerLevel[world]', x=-368.77, y=46.92, z=-1471.45] died, message: 'Florist was slain by Zombie'
+[22Feb2025 16:02:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen fell from a high place
+[22Feb2025 16:02:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -360.500000, 65.500000, -1526.500000]
+[22Feb2025 16:02:31.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[22Feb2025 16:02:50.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Guard
+[22Feb2025 16:02:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -358.500000, 65.500000, -1528.500000]
+[22Feb2025 16:02:58.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[22Feb2025 16:02:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Is this... blood?]
+[22Feb2025 16:03:07.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Guard
+[22Feb2025 16:03:12.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -358.500000, 65.500000, -1524.500000]
+[22Feb2025 16:04:04.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/14452, l='ServerLevel[world]', x=-359.16, y=65.00, z=-1525.19] died, message: 'Forester was slain by AKA_Milen'
+[22Feb2025 16:04:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Bad Deal]
+[22Feb2025 16:04:28.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 16:04:28.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:05:43.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14714, l='ServerLevel[world]', x=-287.70, y=73.00, z=-1559.30] died, message: 'Villager was slain by Zombie'
+[22Feb2025 16:06:16.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/14554, l='ServerLevel[world]', x=-349.74, y=75.00, z=-1501.74] died, message: 'Beekeeper was slain by Zombie'
+[22Feb2025 16:09:28.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 16:09:28.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:09:49.640] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/17206, l='ServerLevel[world]', x=79.50, y=33.00, z=-1277.50]
+[22Feb2025 16:09:52.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/17222, l='ServerLevel[world]', x=92.50, y=36.00, z=-1282.50]
+[22Feb2025 16:10:33.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/17663, l='ServerLevel[world]', x=83.50, y=38.00, z=-1284.50]
+[22Feb2025 16:13:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 195.500000, 72.500000, -599.500000]
+[22Feb2025 16:13:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Crops of the Wild]
+[22Feb2025 16:14:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -113.500000, 68.500000, -382.500000]
+[22Feb2025 16:14:29.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 16:14:29.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:14:31.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22Feb2025 16:15:05.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Feb2025 16:15:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has reached the goal [Off you go]
+[22Feb2025 16:16:13.687] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 16:16:13.687] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 16:16:13.688] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 16:16:13.688] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 16:16:33.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has reached the goal [Snowed In]
+[22Feb2025 16:16:50.928] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[22Feb2025 16:18:11.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Stray
+[22Feb2025 16:18:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -306.500000, 94.500000, -422.500000]
+[22Feb2025 16:19:32.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 16:19:32.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:21:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Stray
+[22Feb2025 16:21:46.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -303.500000, 116.500000, -424.500000]
+[22Feb2025 16:21:48.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Stray
+[22Feb2025 16:21:58.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -302.500000, 116.500000, -425.500000]
+[22Feb2025 16:22:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Stray
+[22Feb2025 16:22:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -301.500000, 116.500000, -423.500000]
+[22Feb2025 16:22:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was slain by Stray
+[22Feb2025 16:22:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -301.500000, 116.500000, -424.500000]
+[22Feb2025 16:23:01.403] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-309, y=112, z=-420}) doesn't have enough leaves around top most log
+[22Feb2025 16:23:03.708] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-309, y=113, z=-420}) doesn't have enough leaves around top most log
+[22Feb2025 16:23:05.743] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-308, y=113, z=-420}) doesn't have enough leaves around top most log
+[22Feb2025 16:23:07.639] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-309, y=114, z=-420}) doesn't have enough leaves around top most log
+[22Feb2025 16:23:09.449] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-308, y=114, z=-420}) doesn't have enough leaves around top most log
+[22Feb2025 16:23:11.719] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-308, y=114, z=-421}) doesn't have enough leaves around top most log
+[22Feb2025 16:24:09.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was shot by Stray
+[22Feb2025 16:24:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -307.500000, 113.500000, -415.500000]
+[22Feb2025 16:24:32.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 16:24:32.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 16:26:20.954] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a59a9fa
+[22Feb2025 16:27:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen fell from a high place
+[22Feb2025 16:27:06.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[22Feb2025 16:27:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -307.500000, 69.500000, -429.500000]

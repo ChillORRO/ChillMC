@@ -1307,3 +1307,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [23Feb2025 18:40:29.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (49.077s)! For help, type "help"
 [23Feb2025 18:40:29.318] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [23Feb2025 18:40:29.323] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[23Feb2025 18:48:14.378] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Feb2025 18:48:14.507] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57921478
+[23Feb2025 18:48:14.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lil_Orne[/172.25.164.230:61411] logged in with entity id 83 at (467.4070707659255, 63.0, -1142.149463331598)
+[23Feb2025 18:48:14.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne joined the game
+[23Feb2025 18:48:18.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4204ms or 84 ticks behind
+[23Feb2025 18:49:26.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/373, l='ServerLevel[world]', x=375.50, y=76.00, z=-1070.50]
+[23Feb2025 18:51:27.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/900, l='ServerLevel[world]', x=365.50, y=72.00, z=-1076.50]
+[23Feb2025 18:52:03.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lil_Orne moved too quickly! 5.603109975385848,2.0,8.243923343785355
+[23Feb2025 18:54:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lil_Orne has made the advancement [Hot Stuff]
